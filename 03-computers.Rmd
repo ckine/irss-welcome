@@ -48,7 +48,7 @@ To automate backups you can use software like [Cobian Backup](https://www.cobian
 
 IRSS has access to a file server, which is divided into two main folders.
 
-### ByProject & ByUser {-#shared}
+### ByProject & ByUser {-#pcshared}
 
 ByProject contains datasets related to research projects; ByUser is a space for each lab member to share data with others. These two folders can be accessed from any computer in the lab and should be mapped for easier access.
 
