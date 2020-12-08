@@ -1,1 +1,0 @@
-This is a welcome document for all new members to the IRSS lab. If you have any questions or comments please talk to Nicholas.
