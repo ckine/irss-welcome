@@ -1,7 +1,7 @@
 inst/doc
 .Rhistory
 .Rbuildignore
-RMFinventory.Rproj
+irss-welcome.Rproj
 tests.R
 .Rproj.user
 scrap
