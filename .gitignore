@@ -1,7 +1,0 @@
-inst/doc
-.Rhistory
-.Rbuildignore
-irss-welcome.Rproj
-tests.R
-.Rproj.user
-scrap
