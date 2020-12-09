@@ -9,17 +9,27 @@ biblio-style: apalike
 link-citations: yes
 
 ---
-
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+--- 
 # Decription {-#description}
 
 This document is a brief introduction to the IRSS lab. It provides:
 
-* insight into expectations
+* Insight into [expectations](#expectations)
 
-* need-to-know details about getting started
+* Need to know details about your [workstation](#computers)
 
-* and useful information for once you are settled
+* Information about [safety](#safety) in the lab and in the field
 
+* Common practices for [working in the lab and from home](#working)
+
+* The [social](#social) atmosphere in the lab
+
+* The lab [vehicle](#vehicle) and when/how it can be used
+
+* All things related to your [thesis](#thesis) and how to get ahead of the curve
 
 
 <p align="center">
@@ -29,4 +39,3 @@ This document is a brief introduction to the IRSS lab. It provides:
 <p align="center">
   <img src="img\\ubc-logo.png" />
 </p>
-
