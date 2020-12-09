@@ -26,13 +26,5 @@ For safety we have two [SPOT communicator units](https://www.findmespot.com/en-u
 
 IRSS lab field work is diverse and often different by project. Field work locations vary from very accessible (hotels and driving directly to field sites), to ‘off the grid’ camping. Field work is a great opportunity to get to know your fellow lab mates and their projects, as well as explore parts of the country you might not normally get to see. Typically when the need for field work arises, Nicholas or the student will send a lab wide email with potential dates and the number of people needed. Students are encouraged to help on at least one field work campaign per year.
 
-When organizing field work, it is important to note what equipment you are planning to use, and to check it out via the Google Doc. Please ask Paul H. of Francois for access to the document when planning your field work. Field equipment is commonly demoed at the retreat, but additional training will also be provided by other students if needed. Some field equipment will need a sign off from Nicholas prior to being used, for example: 
-
-* Plant Canopy Imager (CI-110)
-
-* Field spectrometer (ASD FieldSpec 3)
-
-* Drones 
-
-* GPS (Trimble GEO7x - instructions at `\\FRST-IRSStor\Root\ByProject\GPS`)
+When organizing field work, it is important to note what equipment you are planning to use, and to check it out via the Google Doc. Please ask Paul H. of Francois for access to the document when planning your field work. Field equipment is commonly demoed at the retreat, but additional training will also be provided by other students if needed. Some field equipment will need a sign off from Nicholas prior to being used.
 
