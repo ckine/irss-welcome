@@ -1,5 +1,4 @@
-# Communication & staying in touch {-#comms}
-
+# Communication & staying in touch {-#intouch}
 There are two main forms of communication in the lab: **Slack** and **email**. 
 
 
