@@ -58,6 +58,21 @@ In addition to working on their thesis, some students also decide to become teac
 
 * TAing does not replace research, it is done in addition to your research.
 
+### The last 3 months of your program {-#finishing}
+The last few months of your program can be hectic. A lot of things can be happening at once, so its important to know what to expect!
+
+<p align="center">
+[![The last 3 months of your program](http://img.youtube.com/vi/kGIcUW2YS0c/0.jpg)](https://youtu.be/doqHVAz7BgI "The last 3 months of your program")
+</p>
+
+* Getting ready to defend your thesis.
+
+* Timetable and considerations during your last months prior to defense.
+
+* Transforming papers to a submitted thesis.
+
+* Committee feedback and selecting examiners.
+
 
 *These videos and other resources can be found in `//ByProject//Orientation`. Check it out to familiarize yourself with the components and expectations of your thesis, aswell as example proposals and committee meeting presentations.*
 
@@ -148,9 +163,9 @@ Your thesis is the most important document that you will produce in your time in
   </tbody>
 </table>
 
-* Nitty gritty details from UBC Graduate Studies, found here: https://www.grad.ubc.ca/current-students/dissertation-thesis-preparation/resources-thesis-preparation-checking
+* [Nitty gritty details from UBC Graduate Studies.](https://www.grad.ubc.ca/current-students/dissertation-thesis-preparation/resources-thesis-preparation-checking)
 
-* Search previous students’ theses here: https://open.library.ubc.ca/
+* Search previous students’ theses [here](https://open.library.ubc.ca/)
 
 ## Completion timeline {-#completion}
 

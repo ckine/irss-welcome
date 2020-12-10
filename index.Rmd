@@ -13,7 +13,7 @@ link-citations: yes
 knitr::opts_chunk$set(echo = FALSE)
 ```
 --- 
-# Description {-#description}
+# Overview {-#overview}
 
 This document is a brief introduction to the IRSS lab. It provides:
 
@@ -33,5 +33,7 @@ This document is a brief introduction to the IRSS lab. It provides:
 
 ```{r, echo=FALSE, out.width="75%",fig.align = 'center'}
 knitr::include_graphics("img\\logo.png")
+```
+```{r, echo=FALSE, out.width="50%",fig.align = 'center'}
 knitr::include_graphics("img\\ubc-logo.png")
 ```

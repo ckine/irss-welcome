@@ -2,7 +2,7 @@
 
 Your workstation is a state-of-the-art, powerful, server-grade computer, with two processors, 16 to 24 cores, 64GB of RAM, and a professional graphics card for accelerating 3D computations. It will come with some software pre-installed (e.g. MS Office), however, based on your project you may request additional software to be installed. 
 
-```{r, echo=FALSE, out.width="50%",fig.align = 'center'}
+```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="What your workstation will look like."}
 knitr::include_graphics("img\\workstation.jpg")
 ```
 

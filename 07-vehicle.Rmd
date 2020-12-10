@@ -1,6 +1,6 @@
 # The lab vehicle {-#vehicle}
 
-```{r, echo=FALSE, out.width="50%",fig.align = 'center'}
+```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap = "The Nissan Xterra."}
 knitr::include_graphics("img\\vehicle.jpg")
 ```
 

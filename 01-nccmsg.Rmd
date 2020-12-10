@@ -1,6 +1,6 @@
 # A message from Nicholas {-#nccmsg}
 
-```{r, echo=FALSE, out.width="50%",fig.align = 'center'}
+```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="Nicholas delivering a presentation."}
 knitr::include_graphics("img\\ncc.jpg")
 ```
 
@@ -8,9 +8,10 @@ It's a pleasure to welcome you into the lab and [I'm](https://forestry.ubc.ca/fa
 
 ## Diversity {-#diversity}
 
-The IRSS is situated on the traditional, ancestral, and unceded territory of the hən̓q̓əmin̓əm̓ speaking xʷməθkʷəy̓əm (Musqueam) people. We are fortunate to be a part of a diverse community at UBC where many come from places far away to share their traditions and knowledge.
+The IRSS is situated on the traditional, ancestral, and unceded territory of the hən̓q̓əmin̓əm̓ speaking xʷməθkʷəy̓əm (Musqueam) people. We also recognize that wherever we work, we do so on lands with traditional and ancestral heritage. We are fortunate to be a part of a diverse community at UBC. People come from near and far to share their own culture and knowledge.
 
-We welcome diversity within the Integrated Remote Sensing Studio. People of varying race, nationality, gender, creed, orientation, and discipline make us stronger as a group and more compassionate and inclusive human beings. We recognize that we all work differently, and that we all have valuable ideas to contribute. We understand that working together is more fun and creative than working alone. We reward success, while recognizing that success for one is an achievement for all, and that individual notions of success are different.
+We welcome diversity within the Integrated Remote Sensing Studio. People of varying race, nationality, gender identification, sexual orientation, beliefs, age, disability status, and discipline make us stronger as a group and more compassionate and inclusive human beings. We recognize that we all work differently, and that we all have valuable ideas to contribute. We understand that working together is more fun and creative than working alone. We recognize a wide range of successes and that success for one is an achievement for all.
+
 
 ```{r, echo=FALSE, out.width="100%",fig.align = 'center',fig.cap="[The Indigenous Strategic Plan: An Overview](https://ctlt.ubc.ca/2020/11/24/edubytes-the-indigenous-strategic-plan-overview/) - CC BY SA 4.0"}
 knitr::include_graphics("img\\pole-CC.jpg")
