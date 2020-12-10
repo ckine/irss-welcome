@@ -11,8 +11,6 @@ link-citations: yes
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-knitr::render_markdown(TRUE)
-library(hugormd)
 ```
 --- 
 # Description {-#description}
