@@ -12,6 +12,14 @@ We also have a number of other social activities throughout the year. Events tha
 
 * The IRSS Christmas party, hosted by Nicholas in early December
 
+```{r, echo=FALSE, out.width="100%",fig.align = 'center',fig.cap="Pizza and science - is there a better combo?"}
+knitr::include_graphics("img\\social-pizza.jpg")
+```
+
+```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="Summer BBQ shenanigans."}
+knitr::include_graphics("img\\bbq.png")
+```
+
 These events are inclusive to everyone and are done to allow students and staff to be better acquainted with one another. There is never any obligation to drink at these events and we encourage you to come for as long as you like.
 
 ## The retreat {-#retreat}
@@ -19,6 +27,14 @@ These events are inclusive to everyone and are done to allow students and staff 
 One of the major IRSS events throughout the year is the retreat. The IRSS retreat is  generally in the first month of June of each year and involves travelling to a BC Ministry of Forests conference facility at [Cowichan Lake](http://www.town.lakecowichan.bc.ca/) on Vancouver Island. 
 
 The retreat begins on Monday morning where we all leave together from Vancouver and traditionally we return on Thursday afternoon or Friday, if the retreat is 5 days. During the retreat we often have guest speakers, breakout groups, tips and tricks sessions, 3 minute thesis style presentations by students and post-docs, and lots of free time to discuss science and enjoy each other’s company. It also provides an opportunity for new students to meet and socialize with the rest of the lab in a relaxed setting. Information about transportation, speaking expectations and so on, are discussed in May prior to the prior to the retreat in June.
+
+```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="A relaxing game of cub beside Lake Cowichan."}
+knitr::include_graphics("img\\retreat.jpg")
+```
+
+```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="Cam gives a bear safety presentation"}
+knitr::include_graphics("img\\retreat2.jpg")
+```
 
 ## Holidays {-#holidays}
 

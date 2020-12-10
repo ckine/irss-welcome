@@ -6,9 +6,6 @@ Below you will find descriptive text and links to some orientation videos to pro
 
 Within the first few months of starting your degree you’ll need to write a mini proposal, which will be sent to potential committee members. The mini proposal will then be enhanced into a full proposal after getting feedback from your committee during your first committee meeting.
 
-* Check out some Nicholas’ Proposal Tips powerpoint presentation in `//ByProject//Orientation` to familiarize yourself with the components and expectations
-
-* Check out `//ByProject//Orientation` for example proposals and committee meeting presentation
 
 ### Developing a mini proposal {-#proposal}
 
@@ -26,17 +23,43 @@ Within the first few months of starting your degree you’ll need to write a min
 [![Establishing and preparing for your first committee meeting](http://img.youtube.com/vi/r6_zBBddeec/0.jpg)](https://youtu.be/r6_zBBddeec "Establishing and preparing for your first committee meeting")
 </p>
 
+* Nicholas will help you to find potential committee members.
+
+* Committee meetings happen once per year, with your first meeting ideally 6 months after you start.
+
+* Committee meeting forms can be found in `ByProject\__LABFORMS`.
+
+
 ### Adaptation of the mini proposal to a full proposal after that first committee meeting {-#fullproposal}
 <p align="center">
 [![Adaptation of the mini proposal](http://img.youtube.com/vi/zlzDmQf7cXE/0.jpg)](https://youtu.be/zlzDmQf7cXE "Adaptation of the mini proposal")
 </p>
 
+* Use feedback from your first committee meeting.
+
+* Every section will become more detailed and expanded.
+
+* From 8 — 20 for MSc; 30 for PhD.
+
+* Update your timeline and plans based on progress to date.
+
+* Text is used in the development of the bookends in the final thesis.
+
+
 ### Thoughts around TAing {-#TAing}
-In addition to working on their thesis, some students also decide to become teaching assistants for undergraduate and graduate classes. her are some things to consider about TA'ing.
+In addition to working on their thesis, some students also decide to become teaching assistants for undergraduate and graduate classes. Here are some things to consider about TAing.
 
 <p align="center">
 [![Thoughts around TAing](http://img.youtube.com/vi/kGIcUW2YS0c/0.jpg)](https://youtu.be/kGIcUW2YS0c "Thoughts around TAing")
 </p>
+
+
+* TAing looks great on your resume and can help to expose you to new ideas and learn different software. 
+
+* TAing does not replace research, it is done in addition to your research.
+
+
+*These videos and other resources can be found in `//ByProject//Orientation`. Check it out to familiarize yourself with the components and expectations of your thesis, aswell as example proposals and committee meeting presentations.*
 
 
 ## Thesis structure {-#thesisstructure}
@@ -131,7 +154,11 @@ Your thesis is the most important document that you will produce in your time in
 
 ## Completion timeline {-#completion}
 
-MSc students typically get two years of funding; the goal is to complete your degree in that time, but this is not a ‘hard’ rule. Around the two year mark, Nicholas will have a conversation about when you are going to finish. If it takes you an extra month or two Nicholas will continue paying your stipend, given you have shown consistent efforts to finish. PhD students get four years of funding. The goal is to complete your comprehensive exam before you finish your second year, and defend in your fourth year. Again, Nicholas will likely have a conversation with you when you get close to the fourth year mark.
+Funding availability is the primary driver of your completion timeline. This can vary from student to student so its important be talk with Nicholas about your funding situation. MSc students typically get two years of funding; the goal is to complete your degree in that time, but this is not a ‘hard’ rule. Around the two year mark, Nicholas will have a conversation about when you are going to finish. If it takes you an extra month or two Nicholas will continue paying your stipend, given you have shown consistent efforts to finish. PhD students get four years of funding. The goal is to complete your comprehensive exam before you finish your second year, and defend in your fourth year. Again, Nicholas will likely have a conversation with you when you get close to the fourth year mark.
+
+```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="Agatha immediately after her recent successful defence. Congrats, Agatha!"}
+knitr::include_graphics("img\\completion1.jpg")
+```
 
 ## Publishing {-#publishing}
 
@@ -153,4 +180,14 @@ Nicholas typically funds 1 conference for MSc students and 2 conferences for PhD
 
 These conferences are a great opporunity to meet other scientists in your field, learn about their work, present your own, and make opportunities for collaboration.
 
+```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="Francois speaking at Silvilaser 2019 in Foz de Iguazu."}
+knitr::include_graphics("img\\conference3.jpg")
+```
 
+```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="Annie speaking about her work at the Remote Sensing for Forest Practitioners workshop in Edmonton."}
+knitr::include_graphics("img\\conference2.jpg")
+```
+
+```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="Sights to see at different conferences - Foz de Iguazu, Silvilaser 2019."}
+knitr::include_graphics("img\\conference1.jpg")
+```

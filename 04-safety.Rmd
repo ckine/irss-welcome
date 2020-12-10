@@ -4,11 +4,19 @@
 
 When you arrive at UBC you are given a safety orientation folder by the department. This  safety orientation folder contains a number of forms that need to be completed once you've arrived at UBC. There is a basic form which has your next of kin information, so UBC knows who to contact should that be necessary. This  also includes information such as allergies and medical conditions.There  is a basic office safety form which covers things like hazards in the office, correct ergonomics which  you also can read and complete once you've arrived at UBC you can also talk to Nicholas about your preferred working environment conditions, for example having access to a stand up desk and mat compared to a chair.
 
-Within the IRS lab itself we have two first aid kits: one in each room. Should an evacuation be required from the building the siren will sound and you must immediately evacuate the lab, shutting doors as you leave. The gathering area for the forestry building is on the other side of Agronomy Road to the North of the forestry building itself.
+Within the IRSS lab itself we have two first aid kits: one in each room. Should an evacuation be required from the building the siren will sound and you must immediately evacuate the lab, shutting doors as you leave. The [gathering area for the forestry building](https://goo.gl/maps/SdDQTUNoT2ibtxkE8) is on the other side of Agronomy Road to the North of the forestry building itself.
 
 ## In the field {-#fieldsafety}
 
 Prior to going out and doing field work for your project you will need to complete a safety plan. This involves filling out specific forms, providing important contact details, and outlining how you will keep yourself and your crew mates safe during your work.
+
+```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="Piotr and Doug in New Brunswick."}
+knitr::include_graphics("img\\safety.jpg")
+```
+
+```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="Sabrina in an aspen stand."}
+knitr::include_graphics("img\\fieldwork5.jpg")
+```
 
 ### Forms {-#safetyforms}
 There are a number of forms in relation to field work safety. In the IRSS lab because our field work is so diverse and often different by project, we do not have a universal field work safety form. What we do is prepare individual safety forms for each field trip tailored to the location and type of data being collected. Examples of these field safety sheets are in the orientation folder. As part of a field safety plan you need to provide information on your desired route, mileage, and accommodation including hotel name. You will also need to provide contact information and check-in procedures for how you will contact the lab either through cell phone check in or using the SPOT device (see below for more detail).
@@ -28,3 +36,18 @@ IRSS lab field work is diverse and often different by project. Field work locati
 
 When organizing field work, it is important to note what equipment you are planning to use, and to check it out via the Google Doc. Please ask Paul H. of Francois for access to the document when planning your field work. Field equipment is commonly demoed at the retreat, but additional training will also be provided by other students if needed. Some field equipment will need a sign off from Nicholas prior to being used.
 
+```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="Sometimes the bugs can be bad."}
+knitr::include_graphics("img\\fieldwork6.jpg")
+```
+
+```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="Sam Hillman (RMIT) measuring a transect in the Alex Fraser Research Forest."}
+knitr::include_graphics("img\\fieldwork1.jpg")
+```
+
+```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="Felix and Paul pruning some trees."}
+knitr::include_graphics("img\\fieldwork2.jpg")
+```
+
+```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="Andrew in the Albertan boreal."}
+knitr::include_graphics("img\\fieldwork4.jpg")
+```

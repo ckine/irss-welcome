@@ -11,9 +11,11 @@ link-citations: yes
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+knitr::render_markdown(TRUE)
+library(hugormd)
 ```
 --- 
-# Decription {-#description}
+# Description {-#description}
 
 This document is a brief introduction to the IRSS lab. It provides:
 
@@ -31,11 +33,7 @@ This document is a brief introduction to the IRSS lab. It provides:
 
 * All things related to your [thesis](#thesis) and how to get ahead of the curve
 
-
-<p align="center">
-  <img src="img\\logo.png" />
-</p>
-
-<p align="center">
-  <img src="img\\ubc-logo.png" />
-</p>
+```{r, echo=FALSE, out.width="75%",fig.align = 'center'}
+knitr::include_graphics("img\\logo.png")
+knitr::include_graphics("img\\ubc-logo.png")
+```
