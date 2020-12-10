@@ -6,8 +6,7 @@ knitr::include_graphics("img\\ncc.jpg")
 
 It's a pleasure to welcome you into the lab and [I'm](https://forestry.ubc.ca/faculty-profile/nicholas-coops/) very much looking forward to working with you on the project that you have come here to do, and have a fun filled and rich learning environment. While you are here for your project, being a graduate student as you I'm sure realize, is very different than being an undergraduate. In the IRSS lab we have a very flat structure with post-docs, PhD’s, Master’s, and work learn students all treated similarly. Collaboration is strongly encouraged in the lab, so be sure to use the resources available to you and ask your fellow students questions when you have them.
 
-## Equity, inclusion, and diversity {-#eqincdiversity}
-### Diversity {-#diversity}
+## Equity, inclusion, and diversity {-#diversity}
 
 The IRSS is situated on the traditional, ancestral, and unceded territory of the hən̓q̓əmin̓əm̓ speaking xʷməθkʷəy̓əm (Musqueam) people. We also recognize that wherever we work, we do so on lands with traditional and ancestral heritage. We are fortunate to be a part of a diverse community at UBC. People come from near and far to share their own culture and knowledge.
 
