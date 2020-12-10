@@ -6,16 +6,20 @@ knitr::include_graphics("img\\ncc.jpg")
 
 It's a pleasure to welcome you into the lab and [I'm](https://forestry.ubc.ca/faculty-profile/nicholas-coops/) very much looking forward to working with you on the project that you have come here to do, and have a fun filled and rich learning environment. While you are here for your project, being a graduate student as you I'm sure realize, is very different than being an undergraduate. In the IRSS lab we have a very flat structure with post-docs, PhD’s, Master’s, and work learn students all treated similarly. Collaboration is strongly encouraged in the lab, so be sure to use the resources available to you and ask your fellow students questions when you have them.
 
-## Diversity {-#diversity}
+## Equity, inclusion, and diversity {-#eqincdiversity}
+### Diversity {-#diversity}
 
 The IRSS is situated on the traditional, ancestral, and unceded territory of the hən̓q̓əmin̓əm̓ speaking xʷməθkʷəy̓əm (Musqueam) people. We also recognize that wherever we work, we do so on lands with traditional and ancestral heritage. We are fortunate to be a part of a diverse community at UBC. People come from near and far to share their own culture and knowledge.
 
 We welcome diversity within the Integrated Remote Sensing Studio. People of varying race, nationality, gender identification, sexual orientation, beliefs, age, disability status, and discipline make us stronger as a group and more compassionate and inclusive human beings. We recognize that we all work differently, and that we all have valuable ideas to contribute. We understand that working together is more fun and creative than working alone. We recognize a wide range of successes and that success for one is an achievement for all.
 
-
 ```{r, echo=FALSE, out.width="100%",fig.align = 'center',fig.cap="[The Indigenous Strategic Plan: An Overview](https://ctlt.ubc.ca/2020/11/24/edubytes-the-indigenous-strategic-plan-overview/) - CC BY SA 4.0"}
 knitr::include_graphics("img\\pole-CC.jpg")
 ```
+
+### Code of conduct {-#coc}
+
+The [Faculty of Forestry](https://forestry.ubc.ca/news/statement-by-the-chair-of-equity-diversity-and-inclusion-council/) has released values statements that we fully endorse. We are proponents of involvement in initiatives like the [Forestry Diversity Crew](https://diversity.forestry.ubc.ca/) and encourage new students and staff to get involved. We also encourage anyone to access and familiarize themselves with [UBC resources related to equity, inclusion, and diversity](https://equity.ubc.ca/resources/).
 
 ## Expectations {-#expectations}
 As a graduate student I expect you to be fully self driven and able to remain motivated and enthusiastic throughout your time here at UBC. I imagine at times you will feel incredibly stressed and there will be times that you feel like walking away. I'm also sure there will be hopefully more times when you leave after a day's work full of enthusiasm and excitement to come back and continue the work tomorrow.

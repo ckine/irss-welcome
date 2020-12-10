@@ -1,0 +1,56 @@
+# Online resources {-#resources}
+
+## Forest resources management contacts {-#resourcesfrm}
+
+If you have questions about your program, need guidance regarding policy and procedure, or scholarship questions, contact [Gayle Kosh](https://forestry.ubc.ca/students/graduate-student-portal/graduate-student-advising/) at `gayle.kosh@ubc.ca`.
+
+If you have payment or banking questions, message _Joanne Dean_ at `joanne.dean@ubc.ca`. Joanne is the administrative manager for the Department of Forest Resources Management.
+
+```{r, echo=FALSE, out.width="75%",fig.align = 'center', fig.cap="View from UBC looking north west to [Bowen Island](https://www.tourismbowenisland.com/)."}
+knitr::include_graphics("img\\ubc1.png")
+```
+
+## UBC resources - admin {-#resourcesubc}
+
+The [Forestry Graduate Student Portal](https://forestry.ubc.ca/students/graduate-student-portal/) provides links for policies, administrative forms, as well as general links for graduate students. The [GRADBOOK](https://forestry.ubc.ca/wp-content/uploads/2020/08/Forestry-Gradbook-2020-21-edition.pdf) will probably answer many of your forestry specific administrative questions.
+
+[Useful information for newly admitted graduate students](https://www.grad.ubc.ca/current-students/newly-admitted) including details about how to apply for your [UBC card](https://ubccard.ubc.ca/), applying for medical insurance, and registering for courses. 
+
+## International student resources {-#resourcesint}
+
+UBC provides [international student advising](https://students.ubc.ca/about-student-services/international-student-advising) and a [guide for international students.](https://students.ubc.ca/international-student-guide)
+
+```{r, echo=FALSE, out.width="75%",fig.align = 'center', fig.cap="Looking north east - Telus science world from false creek."}
+knitr::include_graphics("img\\vancouver2.jpg")
+```
+
+## General Vancouver resources {-#resourcesvan}
+
+### Living in Vancouver {-#housing}
+
+If you have not yet looked into accommodation at UBC or in Vancouver check out the [UBC Housing](https://www.grad.ubc.ca/campus-community/life-vancouver/housing?menu=000%2C000%2C000%2C000) portal.  
+
+If you are looking for housing off campus, resources like [Craigslist](https://vancouver.craigslist.org/d/apartments-housing-for-rent/search/apa) and [Kijiji](https://www.kijiji.ca/b-apartments-condos/vancouver/house/c37l1700287a29276001) are good places to start.
+
+```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="Looking north from Cambie street and 10th Ave."}
+knitr::include_graphics("img\\vancouver1.png")
+```
+
+### Transit {-#transit}
+
+Vancouver is known for its great public transportation. Once you have your UBC card, you can sign up for a [U-Pass](https://planning.ubc.ca/transportation/transit/u-pass-compass-card) and [compass card to use public transit across the city](https://ubccard.ubc.ca/u-pass-and-compass-card).
+
+Be sure to familiarize yourself with information on [trip planning and how to get where you want to go](https://www.translink.ca/schedules-and-maps/transit-system-maps.aspx).
+
+## Student welfare {-#welfare}
+
+* UBC has a comprehensive health and well being centre. More information can be found in the links below:
+
+* [Finding health support](https://students.ubc.ca/health/finding-health-support)
+* [Student health service](https://students.ubc.ca/health/student-health-service)
+* [Councelling services](https://students.ubc.ca/health/counselling-services)
+
+```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="UBC Forest Sciences Centre. Credit: Don Erhardt."}
+knitr::include_graphics("img\\forestry1.jpg")
+```
+

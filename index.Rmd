@@ -12,12 +12,13 @@ link-citations: yes
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
---- 
+---
+
 # Overview {-#overview}
 
 This document is a brief introduction to the IRSS lab. It provides:
 
-* Insight into [expectations](#expectations)
+* Insight into [lab values](#diversity) and [expectations](#expectations)
 
 * Need to know details about your [workstation](#computers)
 

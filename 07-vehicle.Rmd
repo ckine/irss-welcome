@@ -14,7 +14,7 @@ The lab truck must always be used for UBC business. The mileage on the lab truck
 
 The vehicle can be parked in two locations. There is a designated spot for the vehicle in the forestry basement parkade (labeled IRSS). In addition it is possible to park the vehicle at UBC Thunderbird parkade in the designated spot (_R224 on the ground floor_). If the vehicle is parked anywhere else at UBC it will incur a parking fine which the person driving the car at the time must pay.
 
-### In case of an accident {-#accident}
+## In case of an accident {-#accident}
 
 Should you get into an accident while using the vehicle, the registration papers for the vehicle are in the glove box. You are fully insured as a UBC student to drive the vehicle so you can provide your name and address, Nicholas' name and phone number, and vehicle registration information to any police or other people involved in the accident. You should let Nicholas know immediately, regardless of the time of day, and UBC will then become involved with ICBC. 
 
@@ -22,7 +22,7 @@ Should you get into an accident while using the vehicle, the registration papers
 knitr::include_graphics("img\\stuck.jpg")
 ```
 
-### Returning from field work {-#vehiclefield}
+## Returning from field work {-#vehiclefield}
 
 You should always leave the truck as you found it (or cleaner)!
 

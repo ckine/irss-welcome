@@ -1,7 +1,15 @@
 # Social activities {-#social}
 
+```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="An ecstatic Nicholas at the [BC ferries](https://www.bcferries.com/) buffet - A retreat ritual."}
+knitr::include_graphics("img\\buffet.jpg")
+```
+
 As a lab we have a variety of social events which are undertaken throughout the year. While  some are spontaneous there are some other social events that we all do as a lab that have become tradition. The most important is the celebration following the defense of a Master’s or PhD thesis. On the day of the defense we always go out for dinner and celebrate the accomplishment. The defending student picks the location where we go to eat, and through coordination with the IRSS social coordinator (currently Francois), we make a booking and celebrate the achievement. Typically an attendance poll is sent out prior to the event, and depending on space significant others can also join. 
  
+```{r, echo=FALSE, out.width="100%",fig.align = 'center',fig.cap="Pizza and science - is there a better combo?"}
+knitr::include_graphics("img\\social-pizza.jpg")
+``` 
+
 We also have a number of other social activities throughout the year. Events that have occurred on a routine basis for a number of years include:
 
 * Summer barbecue
@@ -11,10 +19,6 @@ We also have a number of other social activities throughout the year. Events tha
 * An indoor board games day at [Stormcrow](https://www.stormcrow.com/) which is held in the winter 
 
 * The IRSS Christmas party, hosted by Nicholas in early December
-
-```{r, echo=FALSE, out.width="100%",fig.align = 'center',fig.cap="Pizza and science - is there a better combo?"}
-knitr::include_graphics("img\\social-pizza.jpg")
-```
 
 ```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="Summer BBQ shenanigans."}
 knitr::include_graphics("img\\bbq.png")

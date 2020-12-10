@@ -2,7 +2,7 @@
 
 Your workstation is a state-of-the-art, powerful, server-grade computer, with two processors, 16 to 24 cores, 64GB of RAM, and a professional graphics card for accelerating 3D computations. It will come with some software pre-installed (e.g. MS Office), however, based on your project you may request additional software to be installed. 
 
-```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="What your workstation will look like."}
+```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="What your workstation will look like. Credit: Dell "}
 knitr::include_graphics("img\\workstation.jpg")
 ```
 
@@ -41,13 +41,15 @@ knitr::include_graphics("img\\lab.jpg")
 
 If you have some questions about your computer reach out to Nicholas first. The IRSS has a dedicated departmental IT person named Felix Choi. If you need things installed or have hardware questions email him at `felix.choi@ubc.ca`.
 
-## Your Laptop {-#laptop}
+## Your laptop {-#laptop}
 
 You will receive a laptop that is for your personal use throughout the length of your graduate studies. Please remember that similar to workstations, laptops are also tracked by UBC. If you are unsure about installing a program, please make sure to ask Nicholas before installation. The same responsibilities apply to use of your laptop as the workstation.
 
-<p align="center">
-  <img src="img\\laptop.jpg" />
-</p>
+
+
+```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="Your laptop. Credit: Dell "}
+knitr::include_graphics("img\\laptop.jpg")
+```
 
 If you are a TA and using the laptop for grading or have any TA material on there, it **MUST** be encrypted, which is performed by your IT contact. If your laptop was set up by UBC It, it is automatically encrypted.
 
