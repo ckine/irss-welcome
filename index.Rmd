@@ -32,6 +32,8 @@ This document is a brief introduction to the IRSS lab. It provides:
 
 * All things related to your [thesis](#thesis) and how to get ahead of the curve
 
+* [Resources](#resources) for anyone new to UBC or Vancouver
+
 ```{r, echo=FALSE, out.width="75%",fig.align = 'center'}
 knitr::include_graphics("img\\logo.png")
 ```
