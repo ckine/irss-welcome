@@ -13,7 +13,7 @@ pre code {
   white-space: inherit;
 }
 
-@media (max-width:400px) {
+@media only screen and (max-width:400px) {
    .logos {
       display:none;
    }
