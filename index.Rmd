@@ -7,13 +7,35 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
+output:
+  bookdown::gitbook:
+    includes:
+      in_header: header.html
 
 ---
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
----
 
+```{r htmlTemplate, echo=FALSE}
+# Create the external file
+img <- htmltools::img(src = "img\\logo.png", 
+               alt = 'logo', 
+               style = 'position:absolute; top:100px; right:5%; height:60px; z-index:3;')
+
+htmlhead <- paste0('
+<script>
+document.write(\'<div class="logos">',img,'</div>\')
+</script>
+')
+
+readr::write_lines(htmlhead, path = "header.html")
+
+```
+
+
+---
 # Overview {-#overview}
 
 This document is a brief introduction to the IRSS lab. It provides:
@@ -34,9 +56,6 @@ This document is a brief introduction to the IRSS lab. It provides:
 
 * [Resources](#resources) for anyone new to UBC or Vancouver
 
-```{r, echo=FALSE, out.width="75%",fig.align = 'center'}
-knitr::include_graphics("img\\logo.png")
-```
 ```{r, echo=FALSE, out.width="50%",fig.align = 'center'}
 knitr::include_graphics("img\\ubc-logo.png")
 ```
