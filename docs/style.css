@@ -13,8 +13,8 @@ pre code {
   white-space: inherit;
 }
 
-@media only screen (min-width: 1024px) {
-  .logos {
-    visibility:hidden;
-  }
+@media (max-width:400px) {
+   .logos {
+      display:none;
+   }
 }
