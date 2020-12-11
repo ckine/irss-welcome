@@ -39,11 +39,6 @@ span.search-highlight {
     top: 0;
   }
 }
-@media (max-width: 40em) {
-.logos {
-visibility:hidden;
-}
-}
 
 .book .book-body.fixed .body-inner {
   top: 50px;
