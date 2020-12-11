@@ -6,7 +6,7 @@ If you have questions about your program, need guidance regarding policy and pro
 
 If you have payment or banking questions, message _Joanne Dean_ at `joanne.dean@ubc.ca`. Joanne is the administrative manager for the Department of Forest Resources Management.
 
-```{r, echo=FALSE, out.width="75%",fig.align = 'center', fig.cap="View from UBC looking north west to [Bowen Island](https://www.tourismbowenisland.com/)."}
+```{r, echo=FALSE, out.width="100%",fig.align = 'center', fig.cap="View from UBC looking north west to [Bowen Island](https://www.tourismbowenisland.com/)."}
 knitr::include_graphics("img\\ubc1.png")
 ```
 
@@ -20,7 +20,7 @@ The [Forestry Graduate Student Portal](https://forestry.ubc.ca/students/graduate
 
 UBC provides [international student advising](https://students.ubc.ca/about-student-services/international-student-advising) and a [guide for international students.](https://students.ubc.ca/international-student-guide)
 
-```{r, echo=FALSE, out.width="75%",fig.align = 'center', fig.cap="Looking north east - Telus science world from false creek."}
+```{r, echo=FALSE, out.width="100%",fig.align = 'center', fig.cap="Looking north east - Telus science world from false creek."}
 knitr::include_graphics("img\\vancouver2.jpg")
 ```
 
@@ -30,9 +30,9 @@ knitr::include_graphics("img\\vancouver2.jpg")
 
 If you have not yet looked into accommodation at UBC or in Vancouver check out the [UBC Housing](https://www.grad.ubc.ca/campus-community/life-vancouver/housing?menu=000%2C000%2C000%2C000) portal.  
 
-If you are looking for housing off campus, resources like [Craigslist](https://vancouver.craigslist.org/d/apartments-housing-for-rent/search/apa) and [Kijiji](https://www.kijiji.ca/b-apartments-condos/vancouver/house/c37l1700287a29276001) are good places to start.
+If you are looking for housing off campus, resources like [Craigslist](https://vancouver.craigslist.org/d/apartments-housing-for-rent/search/apa),  [Kijiji](https://www.kijiji.ca/b-apartments-condos/vancouver/house/c37l1700287a29276001), and [uvrentsline](https://www.uvrentsline.com/) are good places to start.
 
-```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="Looking north from Cambie street and 10th Ave."}
+```{r, echo=FALSE, out.width="100%",fig.align = 'center',fig.cap="Looking north from Cambie street and 10th Ave."}
 knitr::include_graphics("img\\vancouver1.png")
 ```
 
