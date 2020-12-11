@@ -171,7 +171,7 @@ Your thesis is the most important document that you will produce in your time in
 
 Funding availability is the primary driver of your completion timeline. This can vary from student to student so its important be talk with Nicholas about your funding situation. MSc students typically get two years of funding; the goal is to complete your degree in that time, but this is not a ‘hard’ rule. Around the two year mark, Nicholas will have a conversation about when you are going to finish. If it takes you an extra month or two Nicholas will continue paying your stipend, given you have shown consistent efforts to finish. PhD students get four years of funding. The goal is to complete your comprehensive exam before you finish your second year, and defend in your fourth year. Again, Nicholas will likely have a conversation with you when you get close to the fourth year mark.
 
-```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="Agatha immediately after her recent successful defence. Congrats, Agatha!"}
+```{r, echo=FALSE, out.width="100%",fig.align = 'center',fig.cap="Agatha immediately after her recent successful defence. Congrats, Agatha!"}
 knitr::include_graphics("img\\completion1.jpg")
 ```
 

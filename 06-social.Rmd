@@ -1,6 +1,6 @@
 # Social activities {-#social}
 
-```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="An ecstatic Nicholas at the [BC ferries](https://www.bcferries.com/) buffet - A retreat ritual."}
+```{r, echo=FALSE, out.width="100%",fig.align = 'center',fig.cap="An ecstatic Nicholas at the [BC ferries](https://www.bcferries.com/) buffet - A retreat ritual."}
 knitr::include_graphics("img\\buffet.jpg")
 ```
 
@@ -32,7 +32,7 @@ One of the major IRSS events throughout the year is the retreat. The IRSS retrea
 
 The retreat begins on Monday morning where we all leave together from Vancouver and traditionally we return on Thursday afternoon or Friday, if the retreat is 5 days. During the retreat we often have guest speakers, breakout groups, tips and tricks sessions, 3 minute thesis style presentations by students and post-docs, and lots of free time to discuss science and enjoy each other’s company. It also provides an opportunity for new students to meet and socialize with the rest of the lab in a relaxed setting. Information about transportation, speaking expectations and so on, are discussed in May prior to the prior to the retreat in June.
 
-```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="A relaxing game of kubb beside Lake Cowichan."}
+```{r, echo=FALSE, out.width="100%",fig.align = 'center',fig.cap="A relaxing game of kubb beside Lake Cowichan."}
 knitr::include_graphics("img\\retreat.jpg")
 ```
 

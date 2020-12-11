@@ -8,11 +8,11 @@ Within the IRSS lab itself we have two first aid kits: one in each room. Should 
 
 ## In the field {-#fieldsafety}
 
-Prior to going out and doing field work for your project you will need to complete a safety plan. This involves filling out specific forms, providing important contact details, and outlining how you will keep yourself and your crew mates safe during your work.
-
 ```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="Piotr and Doug in New Brunswick."}
 knitr::include_graphics("img\\safety.jpg")
 ```
+
+Prior to going out and doing field work for your project you will need to complete a safety plan. This involves filling out specific forms, providing important contact details, and outlining how you will keep yourself and your crew mates safe during your work.
 
 ```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="Sabrina in an aspen stand."}
 knitr::include_graphics("img\\fieldwork5.jpg")

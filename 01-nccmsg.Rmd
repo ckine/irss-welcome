@@ -16,9 +16,7 @@ We welcome diversity within the Integrated Remote Sensing Studio. People of vary
 knitr::include_graphics("img\\pole-CC.jpg")
 ```
 
-### Code of conduct {-#coc}
-
-The [Faculty of Forestry](https://forestry.ubc.ca/news/statement-by-the-chair-of-equity-diversity-and-inclusion-council/) has released values statements that we fully endorse. We are proponents of involvement in initiatives like the [Forestry Diversity Crew](https://diversity.forestry.ubc.ca/) and encourage new students and staff to get involved. We also encourage anyone to access and familiarize themselves with [UBC resources related to equity, inclusion, and diversity](https://equity.ubc.ca/resources/).
+The [Faculty of Forestry](https://forestry.ubc.ca/news/statement-by-the-chair-of-equity-diversity-and-inclusion-council/) has released values statements that we fully endorse. We are proponents of involvement in initiatives like the [Forestry Diversity Crew](https://diversity.forestry.ubc.ca/) and encourage students and staff (new and old) to get involved. We also encourage anyone to access and familiarize themselves with [UBC resources related to equity, inclusion, and diversity](https://equity.ubc.ca/resources/).
 
 ## Expectations {-#expectations}
 As a graduate student I expect you to be fully self driven and able to remain motivated and enthusiastic throughout your time here at UBC. I imagine at times you will feel incredibly stressed and there will be times that you feel like walking away. I'm also sure there will be hopefully more times when you leave after a day's work full of enthusiasm and excitement to come back and continue the work tomorrow.
@@ -27,6 +25,6 @@ The process of undertaking research and collaborating with others is a fantastic
 
 As you feel more comfortable and get to know everyone better, it is my true hope that the friendships that you form will last with you a lifetime, and that as you move through your career once you leave UBC you will stay in touch with past, current and future lab members, and immediately gravitate to each other and build new collaborations and projects.
 
-```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="The entrance to the lab. Welcome!"}
+```{r, echo=FALSE, out.width="100%",fig.align = 'center',fig.cap="The entrance to the lab. Welcome!"}
 knitr::include_graphics("img\\expectations.jpg")
 ```
