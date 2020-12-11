@@ -13,7 +13,7 @@ pre code {
   white-space: inherit;
 }
 
-@media (max-width:600px) {
+@media (max-width:400px) {
    .logos {
       display:none;
    }
