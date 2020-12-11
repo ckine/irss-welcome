@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = FALSE)
 # Create the external file
 img <- htmltools::img(src = "img\\logo.png", 
                alt = 'logo', 
-               style = 'position:absolute; top:100px; right:5%; height:60px; z-index:3;')
+               style = 'position:absolute; top:100px; right:5%; height:60px; max-width:100%; z-index:3;')
 
 htmlhead <- paste0('
 <script>
