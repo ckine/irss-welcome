@@ -31,5 +31,3 @@ fig:unnamed-chunk-31
 fig:unnamed-chunk-32
 fig:unnamed-chunk-33
 fig:unnamed-chunk-34
-part-1
-part-2
