@@ -4,7 +4,9 @@
 knitr::include_graphics("img\\vehicle.jpg")
 ```
 
-The IRSS lab has access to a lab vehicle known as the “Lab Truck”. This vehicle is a Nissan Xterra 4 wheel drive which is available for students to use for field work. Within the lab we have a designated lab truck manager who is responsible for the maintenance and the booking of the vehicle. If you require the use of the vehicle for your field work, contact the lab manager to book the vehicle for your field work times. The vehicle itself is owned and managed by UBC. Gas can be put in the vehicle using the **gas VISA card** which remains in the glovebox compartment. You can only use the gas VISA card at registered service stations or gas stations. You cannot buy gas from non service stations e.g. 7/11.
+The IRSS lab has access to a lab vehicle known as the “Lab Truck”. This vehicle is a Nissan Xterra 4 wheel drive which is available for students to use for field work. Within the lab we have a designated lab truck manager who is responsible for the maintenance and the booking of the vehicle. If you require the use of the vehicle for your field work, contact the lab manager to book the vehicle for your field work times. After each use of the lab truck you must log your kilometers using the [Lab Truck Submission Form](https://forms.gle/VicwE4dYmaJWiyc27)
+
+The vehicle itself is owned and managed by UBC. Gas can be put in the vehicle using the **gas VISA card** which remains in the glovebox compartment. You can only use the gas VISA card at registered service stations or gas stations. You cannot buy gas from non service stations e.g. 7/11.
 
 **You must always keep the receipt for the gas as it needs to be reconciled against the visa statement each month. Please return the gas card and the receipt to the envelope in the glove box.**
 
