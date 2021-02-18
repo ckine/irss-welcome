@@ -2,7 +2,7 @@
 
 Below you will find descriptive text and links to some orientation videos to provide more context for the key requirements new students need to think about in their first year. These videos are intended for you as a reference, but if you want more clarification or have other questions be sure to ask. Click on the videos below or find them in the `\\FRST-IRSStor\Root\ByProject\Orientation\Orientation_Videos` folder.
 
-## Writing your proposal & setting up a committee {-#thesiswriting}
+## Important resources for writing your thesis {-#thesiswriting}
 
 Within the first few months of starting your degree you’ll need to write a mini proposal, which will be sent to potential committee members. The mini proposal will then be enhanced into a full proposal after getting feedback from your committee during your first committee meeting.
 
