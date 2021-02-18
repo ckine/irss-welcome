@@ -45,6 +45,12 @@ Within the first few months of starting your degree you’ll need to write a min
 
 * Text is used in the development of the bookends in the final thesis.
 
+### Writing a literature review {-#litreview}
+<p align="center">
+[![Writing a literature review](http://img.youtube.com/vi/L3Bzelql6MQ/0.jpg)](https://youtu.be/L3Bzelql6MQ "Writing a literature review")
+</p>
+
+
 ### Getting published in peer reviewed literature {-#peerreview}
 
 #### Part 1 {-#P1}
