@@ -108,6 +108,14 @@ The IRSS has both a black and white and colour printer available for use. In ord
 
 4. Insert IP address of the printer (see IPs below). Append the `Port name` as shown then click `Next`.
 
+```
+HP Color LaserJet E75245
+IP: 142.103.230.21_PRINT
+
+Xerox Phaser 4510 Series Class Driver
+IP: 142.103.230.20_PRINT
+```
+
 5. If a window appears that asks about driver version select `Use the driver that is currently installed`.
 
 6. Keep the default printer name then click `Next`.
