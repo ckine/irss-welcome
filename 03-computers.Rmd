@@ -78,9 +78,43 @@ To map these drives to your machine do the following:
 
 3. Repeat this process and assign a different letter (e.g. “Y”) to the second network folder: `\\FRST-IRSStor\Root\ByUser`
 
+### Connecting from home
 
+```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="Remote desktop prompt window."}
+knitr::include_graphics("img\\rdp.jpg")
+```
 
+In the lab we can use the Windows Remote Desktop Connection tool to connect to our machines when we are away from the lab. In order to connect to the your lab machine, there are a few steps that need to be followed.
 
+1. Connect to a VPN. On your work laptop, you should have Cisco Anyconnect installed, but it can also be downloaded from http://myvpn.ubc.ca/. To log in, use your CWL.
+
+2. Open the Remote Desktop Connection and enter your computer's name as follows: `frst-frm-22XYZ.ead.ubc.ca`, where `XYZ` are the digits/letter unique to your desktop (There will be a sticker on the top of your computer tower with these details).
+
+3. Click connect. You will be prompted to enter your CWL again. Alternatively, you can run the following command: `mstsc /v frst-frm-22XYZ.ead.ubc.ca`, and enter your CWL when promoted.
+
+You have now successfully remoted in! 
+
+Note: it is possible edit the display settings to stretch over 2 screens if you wish. You can also use the minimize button if you are also working on your laptop at the same time, this will not end your remote session.
+
+### Connecting to printers
+
+The IRSS has both a black and white and colour printer available for use. In order to gain access to them follow these steps:
+
+1. Open `Control Panel` then go under `Devices and Printers` and click `Add a printer`.
+
+2. Click `The printer that I want isn't listed`.
+
+3. Select `Add a printer using TCP/IP address of hostname` then click `Next`.
+
+4. Insert IP address of the printer (see IPs below). Append the `Port name` as shown then click `Next`.
+
+5. If a window appears that asks about driver version select `Use the driver that is currently installed`.
+
+6. Keep the default printer name then click `Next`.
+
+7. Make sure `Do not share this printer` is selected then click `Next`.
+
+You should now be connected!
 
 
 
