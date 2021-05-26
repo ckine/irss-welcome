@@ -81,7 +81,7 @@ To map these drives to your machine do the following:
 ### Connecting from home
 
 ```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="Remote desktop prompt window."}
-knitr::include_graphics("img\\rdp.jpg")
+knitr::include_graphics("img\\rdp.png")
 ```
 
 In the lab we can use the Windows Remote Desktop Connection tool to connect to our machines when we are away from the lab. In order to connect to the your lab machine, there are a few steps that need to be followed.
