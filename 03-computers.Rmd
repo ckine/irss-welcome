@@ -78,7 +78,7 @@ To map these drives to your machine do the following:
 
 3. Repeat this process and assign a different letter (e.g. “Y”) to the second network folder: `\\FRST-IRSStor\Root\ByUser`
 
-### Connecting from home
+## Connecting from home {-#rdp}
 
 ```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="Remote desktop prompt window."}
 knitr::include_graphics("img\\rdp.png")
@@ -96,7 +96,7 @@ You have now successfully remoted in!
 
 Note: it is possible edit the display settings to stretch over 2 screens if you wish. You can also use the minimize button if you are also working on your laptop at the same time, this will not end your remote session.
 
-### Connecting to printers
+## Connecting to printers {-#print}
 
 The IRSS has both a black and white and colour printer available for use. In order to gain access to them follow these steps:
 
