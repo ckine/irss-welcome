@@ -1,5 +1,7 @@
 # Working in the lab or from home {-#working}
 
+The lab  has an alarm system that must be engaged at the end of the day by the last person out, and disengaged by the first person in. Its important to know how to use the alarm system. See the video `\\frst-irsstor\Root\ByProject\Orientation\Orientation_Videos\Alarm_Demo.mp4` to familiarize yourself.
+
 Prior to COVID-19, students were encouraged to be active members by coming into UBC each day. Students should limit spending large amounts of time working from home. With the advent of COVID and working from home we have seen the implications of not being around a dynamic and in-person lab, and as a result post COVID we intend to return to that requirement that all students come to UBC each day. We do appreciate however that each of you have different working styles with some students wishing to arrive early and leave early others may choose to arrive late and work late. That is fine with me and generally we could consider the hours between 10 - 2pm as being critical hours that everyone is around.
 
 ```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="The western lab room."}
