@@ -100,20 +100,22 @@ Note: it is possible edit the display settings to stretch over 2 screens if you 
 
 The IRSS has both a black and white and colour printer available for use. In order to gain access to them follow these steps:
 
-1. Open `Control Panel` then go under `Devices and Printers` and click `Add a printer`.
+1. [Install the HP Driver](https://support.hp.com/ca-en/drivers/selfservice/hp-color-laserjet-managed-e75245-printer-series/21158702)
 
-2. Click `The printer that I want isn't listed`.
+2. Open `Control Panel` then go under `Devices and Printers` and click `Add a printer`.
 
-3. Select `Add a printer using TCP/IP address of hostname` then click `Next`.
+3. Click `The printer that I want isn't listed`.
 
-4. Insert IP address of the printer (see IPs below). Append the `Port name` as shown then click `Next`.
+4. Select `Add a printer using TCP/IP address of hostname` then click `Next`.
+
+5. Insert IP address of the printer (see IPs below). Append the `Port name` as shown then click `Next`.
 
 ```
 HP Color LaserJet E75245
-IP: 142.103.230.21_PRINT
+IP: 142.103.230.21
 
 Xerox Phaser 4510 Series Class Driver
-IP: 142.103.230.20_PRINT
+IP: 142.103.230.20
 ```
 
 5. If a window appears that asks about driver version select `Use the driver that is currently installed`.
