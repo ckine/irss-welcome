@@ -26,7 +26,7 @@ knitr::include_graphics("img\\dogpolicy.png")
 
 [Dogs are allowed in the forestry building with documentation and approval](https://safety.forestry.ubc.ca/dogs-in-the-workplace/). If you have a dog and are interested in bringing them in, you will need to apply through Joanne Dean from the FRM office - `joanne.Dean@ubc.ca`.
 
-The application involves basic information regarding the dog, as well as written approval from fellow lab members. Once you have applied, you and the dog will be interviewed by Joanne. Provided there are no behavioral concerns, your dog will be issued a green collar to be worn in the lab, as well as a sign to say that there are dogs in the work place. It is important to note that while dogs are allowed, appropriate training is important. Too many dogs at once can be distracting, and a limit of 3 dogs across the IRSS rooms is enforced. It's therefore important to coordinate with other dog owners in the lab.
+The application involves basic information regarding the dog, as well as written _approval from fellow lab members using a consent form_. Once you have applied, you and the dog will be interviewed by Joanne. Provided there are no behavioral concerns, your dog will be issued a green collar to be worn in the lab, as well as a sign to say that there are dogs in the work place. It is important to note that while dogs are allowed, appropriate training is important. Too many dogs at once can be distracting, and a limit of 3 dogs across the IRSS rooms is enforced. It's therefore important to coordinate with other dog owners in the lab.
 
 ```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="Piotr commanding the attention of Tycho, Kyra, and Mocha."}
 knitr::include_graphics("img\\dog.jpg")
