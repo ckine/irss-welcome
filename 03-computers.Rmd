@@ -31,6 +31,11 @@ You can also install some software packages yourself, as long as they are free o
 
 * [Camtasia - Navigate to teaching and learning software](https://it.ubc.ca/software-downloads)
 
+* [Microsoft PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) is a set of utilities (developed by Microsoft) designed to improve the user experience on Windows 10. It has a few key functionalites that are incredibly useful in the lab, namely **Fancy Zones** and **Color Picker**.
+
+The **Fancy Zones** plugin allows you to set *zones* on your screen outside of the standard two that Windows provides. The large screens in the lab make this a very useful function, as you can easily snap multiple windows to portions of your screen. To do this drag a window while holding `Shift`.
+
+The **Color Picker** allows you to effectively use the dropper from image editing programs anywhere on your computer by pressing `Win` + `Shift` + `C`.
 
 ```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="The lab and its many work stations"}
 knitr::include_graphics("img\\lab.jpg")
