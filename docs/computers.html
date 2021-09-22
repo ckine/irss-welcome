@@ -24,7 +24,7 @@
 <meta name="author" content="The Integrated Remote Sensing Studio - UBC" />
 
 
-<meta name="date" content="2021-08-03" />
+<meta name="date" content="2021-09-22" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -33,7 +33,7 @@
   
 <link rel="prev" href="intouch.html"/>
 <link rel="next" href="safety.html"/>
-<script src="libs/header-attrs-2.7/header-attrs.js"></script>
+<script src="libs/header-attrs-2.9/header-attrs.js"></script>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -103,6 +103,10 @@ document.write('<div class="logos"><img src="img/logo.png" alt="logo" style="pos
 </ul></li>
 <li class="chapter" data-level="" data-path="computers.html"><a href="computers.html#rdp"><i class="fa fa-check"></i>Connecting from home</a></li>
 <li class="chapter" data-level="" data-path="computers.html"><a href="computers.html#print"><i class="fa fa-check"></i>Connecting to printers</a></li>
+<li class="chapter" data-level="" data-path="computers.html"><a href="computers.html#backup"><i class="fa fa-check"></i>Backing up your data</a>
+<ul>
+<li class="chapter" data-level="" data-path="computers.html"><a href="computers.html#serverbackup"><i class="fa fa-check"></i>Backing up on the server</a></li>
+</ul></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="safety.html"><a href="safety.html"><i class="fa fa-check"></i>Safety</a>
 <ul>
@@ -288,7 +292,34 @@ IP: 142.103.230.20</code></pre>
 <li><p>Make sure <code>Do not share this printer</code> is selected then click <code>Next</code>.</p></li>
 </ol>
 <p>You should now be connected!</p>
+</div>
+<div id="backup" class="section level2 unnumbered">
+<h2>Backing up your data</h2>
+<p><strong><em>Everyone should actively be backing up their data. People have worked hard on projects and lost everything due to hard drive failure. Don’t think it wont happen to you - backup your data routinely</em></strong></p>
+<p>There are 3 options for data backup:</p>
+<ol style="list-style-type: decimal">
+<li><p>Ask Nicholas for an external hard drive (HDD) to save data on.</p></li>
+<li><p>Ask Nicholas about SYNC and your ability to store data on the cloud.</p></li>
+<li><p>Once you have completed projects (or are done your time at the IRSS) you must backup your data on the data backup server <code>\\frst-irsstor\root\IRSSbackup</code>.</p></li>
+</ol>
+<div id="serverbackup" class="section level3 unnumbered">
+<h3>Backing up on the server</h3>
+<p>Prior to dumping data onto the server please read the following steps and adhere to them to avoid loss and limit storage use.</p>
+<ol style="list-style-type: decimal">
+<li><strong>Compress your data</strong> - Compress individual folders within your directories. <strong><em>Do not make a single, massive, compressed folder!</em></strong> It will likely lead to corruptions in your data and you will lose it all. Instead, compress data into smaller chunks, e.g. divide the data into projects or sub directories.</li>
+</ol>
+<p>Downloading tools like <a href="https://www.7-zip.org/download.html">7zip</a> makes compressing many folders at once easy. If you have many sub directories you need to compress and do not want to compress them individually make a <code>.bat</code> file with the script below, save it in the folder with your directories, and run it.</p>
+<pre><code>:: compress all directories and name them the same
+for /d %%X in (*) do &quot;c:\Program Files\7-Zip\7z.exe&quot; a &quot;%%X.zip&quot; &quot;%%X\&quot;</code></pre>
+<ol start="2" style="list-style-type: decimal">
+<li><strong>Copying your data to the backup server</strong> - Download <a href="https://www.codesector.com/teracopy">TeraCopy</a> and use it to transfer the data to the server. Errors often occur when large amounts of data are transferred over the network. TeraCopy allows you to validate the data transfer after the copying is done.</li>
+</ol>
+<p>It is important to check the <code>validate</code> option! Validation take a long time (about the same as the transfer) but gives you a piece of mind that everything is ok. Errors will show up and you can then copy those files again.</p>
+<ol start="3" style="list-style-type: decimal">
+<li><strong>Naming Convention</strong> - Please use the naming convention: <code>LastnameFirstname</code>. My name is Tristan Goodbody so my directory within the backup is called <code>GoodbodyTristan</code>.</li>
+</ol>
 
+</div>
 </div>
 </div>
             </section>

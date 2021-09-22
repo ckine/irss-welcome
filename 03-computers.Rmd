@@ -131,5 +131,36 @@ IP: 142.103.230.20
 
 You should now be connected!
 
+## Backing up your data {-#backup}
+
+***Everyone should actively be backing up their data. People have worked hard on projects and lost everything due to hard drive failure. Don't think it wont happen to you - backup your data routinely*** 
+
+There are 3 options for data backup:
+
+1. Ask Nicholas for an external hard drive (HDD) to save data on.
+
+2. Ask Nicholas about SYNC and your ability to store data on the cloud.
+
+3. Once you have completed projects (or are done your time at the IRSS) you must backup your data on the data backup server `\\frst-irsstor\root\IRSSbackup`.
+
+### Backing up on the server {-#serverbackup}
+
+Prior to dumping data onto the server please read the following steps and adhere to them to avoid loss and limit storage use.
+
+1. **Compress your data** - Compress individual folders within your directories. ***Do not make a single, massive, compressed folder!*** It will likely lead to corruptions in your data and you will lose it all. Instead, compress data into smaller chunks, e.g. divide the data into projects or sub directories.
+
+Downloading tools like [7zip](https://www.7-zip.org/download.html) makes compressing many folders at once easy. If you have many sub directories you need to compress and do not want to compress them individually make a `.bat` file with the script below, save it in the folder with your directories, and run it.
+
+```
+:: compress all directories and name them the same
+for /d %%X in (*) do "c:\Program Files\7-Zip\7z.exe" a "%%X.zip" "%%X\"
+```
+
+2. **Copying your data to the backup server** - Download [TeraCopy](https://www.codesector.com/teracopy) and use it to transfer the data to the server. Errors often occur when large amounts of data are transferred over the network. TeraCopy allows you to validate the data transfer after the copying is done. 
+
+It is important to check the `validate` option! Validation take a long time (about the same as the transfer) but gives you a piece of mind that everything is ok. Errors will show up and you can then copy those files again.
+
+3. **Naming Convention** - Please use the naming convention: `LastnameFirstname`. My name is Tristan Goodbody so my directory within the backup is called `GoodbodyTristan`.
+
 
 
