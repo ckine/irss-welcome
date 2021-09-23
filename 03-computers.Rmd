@@ -50,21 +50,46 @@ If you have some questions about your computer reach out to Nicholas first. The 
 
 You will receive a laptop that is for your personal use throughout the length of your graduate studies. Please remember that similar to workstations, laptops are also tracked by UBC. If you are unsure about installing a program, please make sure to ask Nicholas before installation. The same responsibilities apply to use of your laptop as the workstation.
 
-
-
 ```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="Your laptop. Credit: Dell "}
 knitr::include_graphics("img\\laptop.jpg")
 ```
 
 If you are a TA and using the laptop for grading or have any TA material on there, it **MUST** be encrypted, which is performed by your IT contact. If your laptop was set up by UBC It, it is automatically encrypted.
 
-## Backing up your files {-#backup}
+## Backing up your data {-#backup}
 
-It is crucial that you install and set up a data backup software on your computer(s). There has been numerous hard drive failures in the lab before, and you should **always** be prepared that the hard drive in your computer can stop working at any moment. 
+***Everyone should actively be backing up their data. People have worked hard on projects and lost everything due to hard drive failure. Don't think it wont happen to you - backup your data routinely*** 
 
-Nicholas will pay for [SYNC (4TB)](https://www.sync.com/) if desired and provide a portable hard drive for local backups. 
+There are 3 options for data backup:
 
-To automate backups you can use software like [Cobian Backup](https://www.cobiansoft.com/). Schedule your backups to be incremental and run them daily. 
+1. Ask Nicholas for an external hard drive (HDD) to save data on.
+
+2. Nicholas will pay for [SYNC (4TB)](https://www.sync.com/) - Ask him about it.
+
+Automate backups using SYNC or other software like [Cobian Backup](https://www.cobiansoft.com/). In the case of Cobian, schedule your backups to be incremental and run them daily. 
+
+3. Once you have completed projects (or are done your time at the IRSS) you must backup your data on the data backup server `\\frst-irsstor\root\IRSSbackup`. See the next section for details on how to this needs to be done.
+
+If you complete a project - its good practice to compress folders - create copies and get them on the server. This will allow you to free up space on your own internal HDD's and have piece of mind that your data is secure.
+
+### Backing up on the server {-#serverbackup}
+
+Prior to dumping data onto the server please read the following steps and adhere to them to avoid loss and limit storage use.
+
+1. **Compress your data** - Compress individual folders within your directories. ***Do not make a single, massive, compressed folder!*** It will likely lead to corruptions in your data and you will lose it all. Instead, compress data into smaller chunks, e.g. divide the data into projects or sub directories.
+
+Downloading tools like [7zip](https://www.7-zip.org/download.html) makes compressing many folders at once easy. If you have many sub directories you need to compress and do not want to compress them individually make a `.bat` file with the script below, save it in the folder with your directories, and run it.
+
+```
+:: compress all directories and name them the same
+for /d %%X in (*) do "c:\Program Files\7-Zip\7z.exe" a "%%X.zip" "%%X\"
+```
+
+2. **Copying your data to the backup server** - Download [TeraCopy](https://www.codesector.com/teracopy) and use it to transfer the data to the server. Errors often occur when large amounts of data are transferred over the network. TeraCopy allows you to `validate` the data transfer after the copying is done. 
+
+It is important to check the `validate` option! Validation can take a long time (about the same as the transfer) but gives you piece of mind that everything is ok. Errors will show up and you can then copy those files again.
+
+3. **Naming Convention** - Please use the naming convention: `LastnameFirstname`. My name is Tristan Goodbody so my directory within the backup is called `GoodbodyTristan`.
 
 ## Setting up a shared drive {-#shared}
 
@@ -130,37 +155,6 @@ IP: 142.103.230.20
 7. Make sure `Do not share this printer` is selected then click `Next`.
 
 You should now be connected!
-
-## Backing up your data {-#backup}
-
-***Everyone should actively be backing up their data. People have worked hard on projects and lost everything due to hard drive failure. Don't think it wont happen to you - backup your data routinely*** 
-
-There are 3 options for data backup:
-
-1. Ask Nicholas for an external hard drive (HDD) to save data on.
-
-2. Ask Nicholas about SYNC and your ability to store data on the cloud.
-
-3. Once you have completed projects (or are done your time at the IRSS) you must backup your data on the data backup server `\\frst-irsstor\root\IRSSbackup`.
-
-### Backing up on the server {-#serverbackup}
-
-Prior to dumping data onto the server please read the following steps and adhere to them to avoid loss and limit storage use.
-
-1. **Compress your data** - Compress individual folders within your directories. ***Do not make a single, massive, compressed folder!*** It will likely lead to corruptions in your data and you will lose it all. Instead, compress data into smaller chunks, e.g. divide the data into projects or sub directories.
-
-Downloading tools like [7zip](https://www.7-zip.org/download.html) makes compressing many folders at once easy. If you have many sub directories you need to compress and do not want to compress them individually make a `.bat` file with the script below, save it in the folder with your directories, and run it.
-
-```
-:: compress all directories and name them the same
-for /d %%X in (*) do "c:\Program Files\7-Zip\7z.exe" a "%%X.zip" "%%X\"
-```
-
-2. **Copying your data to the backup server** - Download [TeraCopy](https://www.codesector.com/teracopy) and use it to transfer the data to the server. Errors often occur when large amounts of data are transferred over the network. TeraCopy allows you to validate the data transfer after the copying is done. 
-
-It is important to check the `validate` option! Validation take a long time (about the same as the transfer) but gives you a piece of mind that everything is ok. Errors will show up and you can then copy those files again.
-
-3. **Naming Convention** - Please use the naming convention: `LastnameFirstname`. My name is Tristan Goodbody so my directory within the backup is called `GoodbodyTristan`.
 
 
 
