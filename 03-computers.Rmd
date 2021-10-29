@@ -18,14 +18,13 @@ UBC has license for the following software packages:
 
 * Adobe suite, including Illustrator, Photoshop, InDesign etc.
 
-
 You can also install some software packages yourself, as long as they are free or the license is available. Some of the most useful software packages we use in the lab currently include:
 
 * [R + RStudio](https://rstudio.com/)
 
 * [LAStools (point cloud data processing, license available)](https://rapidlasso.com/lastools/)
 
-* [CloudCompare (for viewing ALS/DAP point clouds))](https://www.danielgm.net/cc/)
+* [CloudCompare (for basic processing/viewing ALS/DAP point clouds)](https://www.danielgm.net/cc/)
 
 * [SnagIt - Navigate to teaching and learning software](https://it.ubc.ca/software-downloads)
 
