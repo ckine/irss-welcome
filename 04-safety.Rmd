@@ -42,7 +42,7 @@ IRSS lab field work is diverse and often different by project. Field work locati
 knitr::include_graphics("img\\fieldwork2.jpg")
 ```
 
-When organizing field work, it is important to note what equipment you are planning to use, and to check it out via the Google Doc. The field gear list is located at `"Z:\Orientation\Field Gear List.url"`. Please ask Paul H. or Francois about planning your field work. Field equipment is commonly demoed at the retreat, but additional training will also be provided by other students if needed. Some field equipment will need a sign off from Nicholas prior to being used.
+When organizing field work, it is important to note what equipment you are planning to use, and to check it out via the Google Doc. The field gear list is located at `"\\frst-irsstor\Root\ByProject\Orientation\Field_Gear_List.url"`. Please ask Paul H. or Francois about planning your field work. Field equipment is commonly demoed at the retreat, but additional training will also be provided by other students if needed. Some field equipment will need a sign off from Nicholas prior to being used.
 
 ```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="Sometimes the bugs can be bad."}
 knitr::include_graphics("img\\fieldwork6.jpg")
