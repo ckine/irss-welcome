@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Computer related information | Welcome to the IRSS</title>
   <meta name="description" content="Computer related information | Welcome to the IRSS" />
-  <meta name="generator" content="bookdown 0.22 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Computer related information | Welcome to the IRSS" />
   <meta property="og:type" content="book" />
@@ -24,7 +24,7 @@
 <meta name="author" content="The Integrated Remote Sensing Studio - UBC" />
 
 
-<meta name="date" content="2021-10-29" />
+<meta name="date" content="2022-02-14" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -33,8 +33,9 @@
   
 <link rel="prev" href="intouch.html"/>
 <link rel="next" href="safety.html"/>
-<script src="libs/header-attrs-2.9/header-attrs.js"></script>
-<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<script src="libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -42,7 +43,6 @@
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
-
 
 
 
@@ -184,7 +184,7 @@ document.write('<div class="logos"><img src="img/logo.png" alt="logo" style="pos
 <div id="computers" class="section level1 unnumbered">
 <h1>Computer related information</h1>
 <p>Your workstation is a state-of-the-art, powerful, server-grade computer, with two processors, 16 to 24 cores, 64GB of RAM, and a professional graphics card for accelerating 3D computations. It will come with some software pre-installed (e.g. MS Office), however, based on your project you may request additional software to be installed.</p>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-5"></span>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:unnamed-chunk-5"></span>
 <img src="img/workstation.jpg" alt="What your workstation will look like. Credit: Dell " width="50%" />
 <p class="caption">
 Figure 4: What your workstation will look like. Credit: Dell
@@ -210,7 +210,7 @@ Figure 4: What your workstation will look like. Credit: Dell
 </ul>
 <p>The <strong>Fancy Zones</strong> plugin allows you to set <em>zones</em> on your screen outside of the standard two that Windows provides. The large screens in the lab make this a very useful function, as you can easily snap multiple windows to portions of your screen. To do this drag a window while holding <code>Shift</code>.</p>
 <p>The <strong>Color Picker</strong> allows you to effectively use the dropper from image editing programs anywhere on your computer by pressing <code>Win</code> + <code>Shift</code> + <code>C</code>.</p>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-6"></span>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:unnamed-chunk-6"></span>
 <img src="img/lab.jpg" alt="The lab and its many work stations" width="75%" />
 <p class="caption">
 Figure 5: The lab and its many work stations
@@ -224,7 +224,7 @@ Figure 5: The lab and its many work stations
 <div id="laptop" class="section level2 unnumbered">
 <h2>Your laptop</h2>
 <p>You will receive a laptop that is for your personal use throughout the length of your graduate studies. Please remember that similar to workstations, laptops are also tracked by UBC. If you are unsure about installing a program, please make sure to ask Nicholas before installation. The same responsibilities apply to use of your laptop as the workstation.</p>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-7"></span>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:unnamed-chunk-7"></span>
 <img src="img/laptop.jpg" alt="Your laptop. Credit: Dell " width="50%" />
 <p class="caption">
 Figure 6: Your laptop. Credit: Dell
@@ -280,7 +280,7 @@ for /d %%X in (*) do &quot;c:\Program Files\7-Zip\7z.exe&quot; a &quot;%%X.zip&q
 </div>
 <div id="rdp" class="section level2 unnumbered">
 <h2>Connecting from home</h2>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-8"></span>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:unnamed-chunk-8"></span>
 <img src="img/rdp.png" alt="Remote desktop prompt window." width="50%" />
 <p class="caption">
 Figure 7: Remote desktop prompt window.
@@ -329,7 +329,6 @@ IP: 142.103.230.20</code></pre>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
 <script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
@@ -369,6 +368,10 @@ gitbook.start({
 "text": null
 },
 "download": ["irss-welcome.pdf", "irss-welcome.epub"],
+"search": {
+"engine": "fuse",
+"options": null
+},
 "toc": {
 "collapse": "subsection"
 }

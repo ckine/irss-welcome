@@ -4,7 +4,7 @@
 knitr::include_graphics("img\\buffet.jpg")
 ```
 
-As a lab we have a variety of social events which are undertaken throughout the year. While  some are spontaneous there are some other social events that we all do as a lab that have become tradition. The most important is the celebration following the defense of a Master’s or PhD thesis. On the day of the defense we always go out for dinner and celebrate the accomplishment. The defending student picks the location where we go to eat, and through coordination with the IRSS social coordinator (currently Francois), we make a booking and celebrate the achievement. Typically an attendance poll is sent out prior to the event, and depending on space significant others can also join. 
+As a lab we have a variety of social events which are undertaken throughout the year. While  some are spontaneous there are some other social events that we all do as a lab that have become tradition. These events are posted and updated in the `#lab-events` channel within [slack](#slack). The most important is the celebration following the defense of a Master’s or PhD thesis. On the day of the defense we always go out for dinner and celebrate the accomplishment. The defending student picks the location where we go to eat, and through coordination with the IRSS social coordinator (currently Ramon), we make a booking and celebrate the achievement. Typically an attendance poll is sent out prior to the event, and depending on space significant others can also join. 
  
 ```{r, echo=FALSE, out.width="100%",fig.align = 'center',fig.cap="Pizza and science - is there a better combo?"}
 knitr::include_graphics("img\\social-pizza.jpg")
@@ -16,8 +16,6 @@ We also have a number of other social activities throughout the year. Events tha
 
 * A brewery tour in East Vancouver often held in the fall 
 
-* An indoor board games day at [Stormcrow](https://www.stormcrow.com/) which is held in the winter 
-
 * The IRSS Christmas party, hosted by Nicholas in early December
 
 ```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="Summer BBQ shenanigans."}
@@ -28,9 +26,9 @@ These events are inclusive to everyone and are done to allow students and staff 
 
 ## The retreat {-#retreat}
 
-One of the major IRSS events throughout the year is the retreat. The IRSS retreat is generally in the first week of June of each year and involves travelling to a BC Ministry of Forests conference facility at [Cowichan Lake](http://www.town.lakecowichan.bc.ca/) on Vancouver Island. 
+One of the major IRSS events throughout the year is the retreat. The IRSS retreat is generally in the first week of June of each year and involves travelling to either the BC Ministry of Forests conference facility at [Cowichan Lake](http://www.town.lakecowichan.bc.ca/) on Vancouver Island or the [Loon Lake](https://loonlake.ubc.ca/about-us) facility at Malcolm Knapp Research Forest. 
 
-The retreat begins on Monday morning where we all leave together from Vancouver and traditionally we return on Thursday afternoon or Friday, if the retreat is 5 days. During the retreat we often have guest speakers, breakout groups, tips and tricks sessions, 3 minute thesis style presentations by students and post-docs, and lots of free time to discuss science and enjoy each other’s company. It also provides an opportunity for new students to meet and socialize with the rest of the lab in a relaxed setting. Information about transportation, speaking expectations and so on, are discussed in May prior to the prior to the retreat in June.
+The retreat begins on Monday morning where we all leave together from Vancouver and traditionally we return on Thursday afternoon or Friday. During the retreat we often have guest speakers, breakout groups, tips and tricks sessions, 3 minute thesis style presentations by students and post-docs, and lots of free time to discuss science and enjoy each other’s company. It also provides an opportunity for new students to meet and socialize with the rest of the lab in a relaxed setting. Information about transportation, speaking expectations and so on, are discussed in May prior to the prior to the retreat in June.
 
 ```{r, echo=FALSE, out.width="100%",fig.align = 'center',fig.cap="A relaxing game of kubb beside Lake Cowichan."}
 knitr::include_graphics("img\\retreat.jpg")

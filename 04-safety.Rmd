@@ -52,3 +52,4 @@ knitr::include_graphics("img\\fieldwork6.jpg")
 knitr::include_graphics("img\\fieldwork1.jpg")
 ```
 
+Fieldwork can be expensive. It’s important to know that Nicholas pays most fees related to fieldwork (i.e. food, gas, lodging). There is a form to fill out in `\\frst-irsstor\Root\ByProject\__LABFORMS\2021_Travel-claim-Form-C`. After filling the form out, send it to Gladys Tecson (`gladys.tecson@ubc.ca`) who will incorporate it into workday. It take a little while to be processed, but you will be reimbursed.
