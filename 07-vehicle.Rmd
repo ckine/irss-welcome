@@ -14,7 +14,7 @@ The lab truck must always be used for UBC business. The mileage on the lab truck
 
 ## Parking {-#parking}
 
-The vehicle can be parked in two locations. There is a designated spot for the vehicle in the forestry basement parkade (labeled IRSS). In addition it is possible to park the vehicle at UBC Thunderbird parkade in the designated spot (_R224 on the ground floor_). If the vehicle is parked anywhere else at UBC it will incur a parking fine which the person driving the car at the time must pay.
+The vehicle can be parked in two locations. There is a designated spot for the vehicle in the forestry basement parkade (labeled IRSS). In addition it is possible to park the vehicle at UBC Thunderbird parkade in the designated spot (_R224 on the ground floor_). If the vehicle is parked anywhere else at UBC, it will incur a parking fine which the person driving the car at the time must pay.
 
 ## In case of an accident {-#accident}
 
@@ -28,7 +28,7 @@ knitr::include_graphics("img\\stuck.jpg")
 
 You should always leave the truck as you found it (or cleaner)!
 
-Upon returning from any field work you should discuss the condition of the vehicle with the lab truck manager. If the vehicle has had or requires servicing (e.g. warning lights have gone on the dashboard) please immediately tell the lab track manager so we can ensure it gets serviced in a timely manner. If you returned from field work late, you are able to park the lab truck at home and bring it back to UBC the next day. The truck can be used in exceptional circumstances on the weekend, for example to help with moving or purchasing of lab supplies.
+Upon returning from any field work you should discuss the condition of the vehicle with the lab truck manager. If the vehicle has had or requires servicing (e.g. warning lights have gone on the dashboard), please immediately tell the lab track manager so we can ensure it gets serviced in a timely manner. If you returned from field work late, you are able to park the lab truck at home and bring it back to UBC the next day. The truck can be used in exceptional circumstances on the weekend, for example to help with moving or purchasing of lab supplies.
 
 ```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="A job well done and ready to come home."}
 knitr::include_graphics("img\\fieldwork3.jpg")

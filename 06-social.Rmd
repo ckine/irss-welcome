@@ -4,7 +4,7 @@
 knitr::include_graphics("img\\buffet.jpg")
 ```
 
-As a lab we have a variety of social events which are undertaken throughout the year. While  some are spontaneous there are some other social events that we all do as a lab that have become tradition. These events are posted and updated in the `#lab-events` channel within [slack](#slack). The most important is the celebration following the defense of a Master’s or PhD thesis. On the day of the defense we always go out for dinner and celebrate the accomplishment. The defending student picks the location where we go to eat, and through coordination with the IRSS social coordinator (currently Ramon), we make a booking and celebrate the achievement. Typically an attendance poll is sent out prior to the event, and depending on space significant others can also join. 
+As a lab we have a variety of social events which are undertaken throughout the year. While  some are spontaneous, there are some other social events that we all do as a lab that have become tradition. These events are posted and updated in the `#lab-events` channel within [slack](#slack). The most important is the celebration following the defense of a Master’s or PhD thesis. On the day of the defense we always go out for dinner and celebrate the accomplishment. The defending student picks the location where we go to eat, and through coordination with the IRSS social coordinator (currently Ramon), we make a booking and celebrate the achievement. Typically an attendance poll is sent out prior to the event, and depending on space significant others can also join. 
  
 ```{r, echo=FALSE, out.width="100%",fig.align = 'center',fig.cap="Pizza and science - is there a better combo?"}
 knitr::include_graphics("img\\social-pizza.jpg")
@@ -22,7 +22,7 @@ We also have a number of other social activities throughout the year. Events tha
 knitr::include_graphics("img\\bbq.png")
 ```
 
-These events are inclusive to everyone and are done to allow students and staff to be better acquainted with one another. There is never any obligation to drink at these events and we encourage you to come for as long as you like.
+These events are inclusive to everyone and are done to allow students and staff to be better acquainted with one another. There is never any obligation to drink at these events, and we encourage you to come for as long as you like.
 
 ## The retreat {-#retreat}
 
@@ -40,11 +40,11 @@ knitr::include_graphics("img\\retreat2.jpg")
 
 ## Holidays {-#holidays}
 
-In general there are no set rules around the amount of time that students can take off for holidays per year. We are flexible in this regard and appreciate that many of us are away from family and friends and as a result may take longer holidays at different times of the year to return home. 
+In general, there are no set rules around the amount of time that students can take off for holidays per year. We are flexible in this regard and appreciate that many of us are away from family and friends and as a result, may take longer holidays at different times of the year to return home. 
 
-As your stipend and project time is a fixed length, any time spent on holiday is time not spent on your project so it requires self determination around the most appropriate timing and time to take off. I strongly recognize that however that holidays are also critically important to de-stress and so we strongly encourage students to take the holidays when they need and would like to. 
+As your stipend and project time is a fixed length, any time spent on holiday is time not spent on your project so it requires self determination around the most appropriate timing and time to take off. I strongly recognize, however, that holidays are also critically important to de-stress, so we strongly encourage students to take the holidays when they need and would like to. 
 
-UBC is considered closed between Christmas and New Year. That week is not regarded as being part of any holiday considerations, you should always take that time off. If you do wish to take holidays, speak to Nicholas prior to discuss the implications of that time off, deadlines and so forth. Once discussed and jointly approved you can then take the appropriate holidays. Please avoid booking time off in the first week of June - this is almost always when the retreat occurs and it is mandatory to attend. The second most important lab event is the Christmas party. Nicholas will give as much notice as possible, but please avoid booking before the party if possible. 
+UBC is considered closed between Christmas and New Year. That week is not regarded as being part of any holiday considerations, you should always take that time off. If you do wish to take holidays, speak to Nicholas prior to discuss the implications of that time off, deadlines and so forth. Once discussed and jointly approved you can then take the appropriate holidays. Please avoid booking time off in the first week of June - this is almost always when the retreat occurs, and it is mandatory to attend. The second most important lab event is the Christmas party. Nicholas will give as much notice as possible, but please avoid booking before the party if possible. 
 
 
 

@@ -53,11 +53,11 @@ You will receive a laptop that is for your personal use throughout the length of
 knitr::include_graphics("img\\laptop.jpg")
 ```
 
-If you are a TA and using the laptop for grading or have any TA material on there, it **MUST** be encrypted, which is performed by your IT contact. If your laptop was set up by UBC It, it is automatically encrypted.
+If you are a TA and using the laptop for grading or have any TA material on there, it **MUST** be encrypted, which is performed by your IT contact. If your laptop was set up by UBC IT, it is automatically encrypted.
 
 ## Backing up your data {-#backup}
 
-***Everyone should actively be backing up their data. People have worked hard on projects and lost everything due to hard drive failure. Don't think it wont happen to you - backup your data routinely*** 
+***Everyone should actively be backing up their data. People have worked hard on projects and lost everything due to hard drive failure. Don't think it won't happen to you - backup your data routinely*** 
 
 There are 3 options for data backup:
 
@@ -69,13 +69,13 @@ Automate backups using SYNC or other software like [Cobian Backup](https://www.c
 
 3. Once you have completed projects (or are done your time at the IRSS) you must backup your data on the data backup server `\\frst-irsstor\root\IRSSbackup`. See the next section for details on how to this needs to be done.
 
-If you complete a project - its good practice to compress folders - create copies and get them on the server. This will allow you to free up space on your own internal HDD's and have piece of mind that your data is secure.
+If you complete a project - its good practice to compress folders - create copies and get them on the server. This will allow you to free up space on your own internal HDD's and have the peace of mind that your data is secure.
 
 ### Backing up on the server {-#serverbackup}
 
 Prior to dumping data onto the server please read the following steps and adhere to them to avoid loss and limit storage use.
 
-1. **Compress your data** - Compress individual folders within your directories. ***Do not make a single, massive, compressed folder!*** It will likely lead to corruptions in your data and you will lose it all. Instead, compress data into smaller chunks, e.g. divide the data into projects or sub directories.
+1. **Compress your data** - Compress individual folders within your directories. ***Do not make a single, massive, compressed folder!*** It will likely lead to corruptions in your data, and you will lose it all. Instead, compress data into smaller chunks, e.g. divide the data into projects or sub directories.
 
 Downloading tools like [7zip](https://www.7-zip.org/download.html) makes compressing many folders at once easy. If you have many sub directories you need to compress and do not want to compress them individually make a `.bat` file with the script below, save it in the folder with your directories, and run it.
 
@@ -96,13 +96,13 @@ IRSS has access to a file server, which is divided into two main folders.
 
 ### ByProject & ByUser {-#pcshared}
 
-ByProject contains datasets related to research projects; ByUser is a space for each lab member to share data with others. These two folders can be accessed from any computer in the lab and should be mapped for easier access.
+ByProject contains datasets related to research projects. ByUser is a space for each lab member to share data with others. These two folders can be accessed from any computer in the lab and should be mapped for easier access.
 
 It's important that you **do not use IRSS shared drives as your file backup folder** as storage space on these drives is limited.
 
 To map these drives to your machine do the following:
 
-1. `Open File Explorer > right-click on ‘This PC’ (found in left side list) > click ‘map network drive’`
+1. Open File Explorer > right-click on `‘This PC’` (found in left side list) > click `‘map network drive’`
 2. Choose a letter (e.g. “Z”) and paste the following `\\FRST-IRSStor\Root\ByProject`
 
 3. Repeat this process and assign a different letter (e.g. “Y”) to the second network folder: `\\FRST-IRSStor\Root\ByUser`
@@ -113,17 +113,17 @@ To map these drives to your machine do the following:
 knitr::include_graphics("img\\rdp.png")
 ```
 
-In the lab we can use the Windows Remote Desktop Connection tool to connect to our machines when we are away from the lab. In order to connect to the your lab machine, there are a few steps that need to be followed.
+In the lab, we can use the Windows Remote Desktop Connection tool to connect to our machines when we are away from the lab. There are a few steps to follow in order to connect to your lab machine:
 
-1. Connect to a VPN. On your work laptop, you should have Cisco Anyconnect installed, but it can also be downloaded from http://myvpn.ubc.ca/. To log in, use your CWL.
+1. Connect to a VPN. On your work laptop, you should have Cisco AnyConnect installed, but it can also be downloaded from http://myvpn.ubc.ca/. To log in, use your CWL.
 
-2. Open the Remote Desktop Connection and enter your computer's name as follows: `frst-frm-22XYZ.ead.ubc.ca`, where `XYZ` are the digits/letter unique to your desktop (There will be a sticker on the top of your computer tower with these details).
+2. Open the Remote Desktop Connection and enter your computer's name as follows: `frst-frm-22XYZ.ead.ubc.ca`, where `XYZ` are the digits/letter unique to your desktop (there will be a sticker on the top of your computer tower with these details).
 
 3. Click connect. You will be prompted to enter your CWL again. Alternatively, you can run the following command: `mstsc /v frst-frm-22XYZ.ead.ubc.ca`, and enter your CWL when promoted.
 
 You have now successfully remoted in! 
 
-Note: it is possible edit the display settings to stretch over 2 screens if you wish. You can also use the minimize button if you are also working on your laptop at the same time, this will not end your remote session.
+Note: it is possible edit the display settings to stretch over 2 screens if you wish. You can also use the minimize button if you are also working on your laptop at the same time without ending your remote session.
 
 ## Connecting to printers {-#print}
 

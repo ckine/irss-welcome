@@ -4,7 +4,7 @@ Below you will find descriptive text and links to some orientation videos to pro
 
 ## Important resources for writing your thesis {-#thesiswriting}
 
-Within the first few months of starting your degree you’ll need to write a mini proposal, which will be sent to potential committee members. The mini proposal will then be enhanced into a full proposal after getting feedback from your committee during your first committee meeting.
+Within the first few months of starting your degree, you’ll need to write a mini proposal, which will be sent to potential committee members. The mini proposal will then be enhanced into a full proposal after getting feedback from your committee during your first committee meeting.
 
 
 ### Developing a mini proposal {-#proposal}
@@ -13,9 +13,9 @@ Within the first few months of starting your degree you’ll need to write a min
 [![Developing a mini proposal](http://img.youtube.com/vi/CjQuJqhK1z8/0.jpg)](https://youtu.be/CjQuJqhK1z8 "Developing a mini proposal")
 </p>
 
-* Likely first comments back from Nicholas about your writing, and they may come across quite strongly (perhaps even brash) - don’t take it personally, this is a learning curve for most new grad students and Nicholas just tries to be clear and concise
+* The first comments back about your writing will likely be from Nicholas. They may come across quite strongly (perhaps even brash) - don’t take it personally, this is a learning curve for most new grad students, and Nicholas just tries to be clear and concise.
 
-* After your mini-proposal is sent to your committee you will need to have your first committee meeting
+* After your mini-proposal is sent to your committee, you will need to have your first committee meeting.
 
 ### Establishing and preparing for your first committee meeting {-#committee}
 
@@ -101,7 +101,7 @@ The last few months of your program can be hectic. A lot of things can be happen
 * Committee feedback and selecting examiners.
 
 
-*These videos and other resources can be found in `//ByProject//Orientation`. Check it out to familiarize yourself with the components and expectations of your thesis, aswell as example proposals and committee meeting presentations.*
+*These videos and other resources can be found in `//ByProject//Orientation`. Check it out to familiarize yourself with the components and expectations of your thesis, as well as example proposals and committee meeting presentations.*
 
 
 ## Thesis structure {-#thesisstructure}
@@ -196,7 +196,7 @@ Your thesis is the most important document that you will produce in your time in
 
 ## Completion timeline {-#completion}
 
-Funding availability is the primary driver of your completion timeline. This can vary from student to student so its important be talk with Nicholas about your funding situation. MSc students typically get two years of funding; the goal is to complete your degree in that time, but this is not a ‘hard’ rule. Around the two year mark, Nicholas will have a conversation about when you are going to finish. If it takes you an extra month or two Nicholas will continue paying your stipend, given you have shown consistent efforts to finish. PhD students get four years of funding. The goal is to complete your comprehensive exam before you finish your second year, and defend in your fourth year. Again, Nicholas will likely have a conversation with you when you get close to the fourth year mark.
+Funding availability is the primary driver of your completion timeline. This can vary from student to student so it's important to talk with Nicholas about your funding situation. MSc students typically get two years of funding; the goal is to complete your degree in that time, but this is not a ‘hard’ rule. Around the two year mark, Nicholas will have a conversation about when you are going to finish. If it takes you an extra month or two Nicholas will continue paying your stipend, given you have shown consistent efforts to finish. PhD students get four years of funding. The goal is to complete your comprehensive exam before you finish your second year, and defend in your fourth year. Again, Nicholas will likely have a conversation with you when you get close to the fourth year mark.
 
 ```{r, echo=FALSE, out.width="100%",fig.align = 'center',fig.cap="Agatha immediately after her recent successful defence. Congrats, Agatha!"}
 knitr::include_graphics("img\\completion1.jpg")

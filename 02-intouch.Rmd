@@ -3,7 +3,7 @@ There are two main forms of communication in the lab: **Slack** and **email**.
 
 
 ## Slack {-#slack}
-[Slack](https://slack.com/intl/en-ca/) is a popular messaging platform. When you become a lab member you’ll receive an invitation to the IRSS Slack channel. Follow-up with Nicholas if you haven’t yet.
+[Slack](https://slack.com/intl/en-ca/) is a popular messaging platform. When you become a lab member you’ll receive an invitation to the IRSS Slack channel. Follow up with Nicholas if you haven’t yet.
 
 The IRSS slack portal ID is `ubc-irss.slack.com`
 
@@ -17,9 +17,9 @@ IRSS Slack contains several channels, each serving different purposes. The most 
 
 * **#irss-supp-grp** - Lab support group. A place to _anonymously_ share ideas of how to improve the lab, talk about issues not related to your research, or ask for help. Important to note that Nicholas is not a member of this channel. 
 
-You’ll quickly notice that the conversations on slack (especially on #general) are often very relaxed. However, remember that all public channels are PG13.
+You’ll quickly notice that the conversations on slack (especially on #general) are often very relaxed. However, remember that all public channels are PG-13.
 
 ## Email {-#email}
 
-Nicholas's primary email is `nicholas.coops@ubc.ca`. He generally tries to respond to emails as quickly as possible, but if he hasn’t replied to you in 2 days, send him a reminder. His emails can often be short and direct, he sends alot of them daily!
+Nicholas's primary email is `nicholas.coops@ubc.ca`. He generally tries to respond to emails as quickly as possible, but if he hasn’t replied to you in 2 days, send him a reminder. His emails can often be short and direct, he sends a lot of them daily!
 
