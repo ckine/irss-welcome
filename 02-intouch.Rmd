@@ -17,7 +17,7 @@ IRSS Slack contains several channels, each serving different purposes. The most 
 
 * **#irss-supp-grp** - Lab support group. A place to _anonymously_ share ideas of how to improve the lab, talk about issues not related to your research, or ask for help. Important to note that Nicholas is not a member of this channel. 
 
-You’ll quickly notice that the conversations on slack (especially on #general) are often very relaxed. However, remember that all public channels are PG-13.
+You’ll quickly notice that the conversations on Slack (especially on #general) are often very relaxed. However, remember that all public channels are PG-13.
 
 ## Email {-#email}
 

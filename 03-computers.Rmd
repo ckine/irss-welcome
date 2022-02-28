@@ -1,6 +1,6 @@
 # Computer related information {-#computers}
 
-Your workstation is a state-of-the-art, powerful, server-grade computer, with two processors, 16 to 24 cores, 64GB of RAM, and a professional graphics card for accelerating 3D computations. It will come with some software pre-installed (e.g. MS Office), however, based on your project you may request additional software to be installed. 
+Your workstation is a state-of-the-art, powerful, server-grade computer, with two processors, 16 to 24 cores, 64GB of RAM, and a professional graphics card for accelerating 3D computations. It will come with some software pre-installed (e.g. MS Office). However, based on your project, you may request additional software to be installed. 
 
 ```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="What your workstation will look like. Credit: Dell "}
 knitr::include_graphics("img\\workstation.jpg")
@@ -30,7 +30,7 @@ You can also install some software packages yourself, as long as they are free o
 
 * [Camtasia - Navigate to teaching and learning software](https://it.ubc.ca/software-downloads)
 
-* [Microsoft PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) is a set of utilities (developed by Microsoft) designed to improve the user experience on Windows 10. It has a few key functionalites that are incredibly useful in the lab, namely **Fancy Zones** and **Color Picker**.
+* [Microsoft PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) is a set of utilities (developed by Microsoft) designed to improve the user experience on Windows 10. It has a few key functions that are incredibly useful in the lab, namely **Fancy Zones** and **Color Picker**.
 
 The **Fancy Zones** plugin allows you to set *zones* on your screen outside of the standard two that Windows provides. The large screens in the lab make this a very useful function, as you can easily snap multiple windows to portions of your screen. To do this drag a window while holding `Shift`.
 
@@ -43,7 +43,7 @@ knitr::include_graphics("img\\lab.jpg")
 
 ### IT questions or contact needs {-#it}
 
-If you have some questions about your computer reach out to Nicholas first. The IRSS has a dedicated departmental IT person named Felix Choi. If you need things installed or have hardware questions email him at `felix.choi@ubc.ca`.
+If you have some questions about your computer reach out to Nicholas first. The IRSS has a dedicated departmental IT person named [Felix Choi](https://forestry.ubc.ca/people/staff-directory/). If you need things installed or have hardware questions email him at `felix.choi@ubc.ca`.
 
 ## Your laptop {-#laptop}
 
@@ -57,7 +57,7 @@ If you are a TA and using the laptop for grading or have any TA material on ther
 
 ## Backing up your data {-#backup}
 
-***Everyone should actively be backing up their data. People have worked hard on projects and lost everything due to hard drive failure. Don't think it won't happen to you - backup your data routinely*** 
+***Everyone should actively be backing up their data. People have worked hard on projects and lost everything due to hard drive failure. Don't think it won't happen to you - backup your data routinely.***
 
 There are 3 options for data backup:
 
@@ -69,7 +69,8 @@ Automate backups using SYNC or other software like [Cobian Backup](https://www.c
 
 3. Once you have completed projects (or are done your time at the IRSS) you must backup your data on the data backup server `\\frst-irsstor\root\IRSSbackup`. See the next section for details on how to this needs to be done.
 
-If you complete a project - its good practice to compress folders - create copies and get them on the server. This will allow you to free up space on your own internal HDD's and have the peace of mind that your data is secure.
+When you complete a project, compress your folders (always a good practice), create copies, and get them on the server. This will allow you to free up space on your own internal HDD's and have the peace of mind that your data is secure.
+
 
 ### Backing up on the server {-#serverbackup}
 
@@ -115,7 +116,8 @@ knitr::include_graphics("img\\rdp.png")
 
 In the lab, we can use the Windows Remote Desktop Connection tool to connect to our machines when we are away from the lab. There are a few steps to follow in order to connect to your lab machine:
 
-1. Connect to a VPN. On your work laptop, you should have Cisco AnyConnect installed, but it can also be downloaded from http://myvpn.ubc.ca/. To log in, use your CWL.
+1. Connect to a VPN. You should have Cisco Anyconnect installed on your work laptop, but it can also be downloaded from https://it.ubc.ca/services/email-voice-internet/myvpn/setup-documents. To log in, use your CWL.
+
 
 2. Open the Remote Desktop Connection and enter your computer's name as follows: `frst-frm-22XYZ.ead.ubc.ca`, where `XYZ` are the digits/letter unique to your desktop (there will be a sticker on the top of your computer tower with these details).
 
