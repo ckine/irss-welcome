@@ -2,9 +2,9 @@
 
 ## Forest resources management contacts {-#resourcesfrm}
 
-If you have questions about your program, need guidance regarding policy and procedure, or scholarship questions, contact [Gayle Kosh](https://forestry.ubc.ca/students/graduate-student-portal/graduate-student-advising/) at `gayle.kosh@ubc.ca`.
+If you have questions about your program, need guidance regarding policy and procedure, or scholarship questions, contact [Gayle Kosh](https://m.directorydevl.it.ubc.ca/index.cfm?detail=1000012544) at `gayle.kosh@ubc.ca`.
 
-If you have payment or banking questions, message _Joanne Dean_ at `joanne.dean@ubc.ca`. Joanne is the administrative manager for the Department of Forest Resources Management.
+If you have payment or banking questions, message [Joanne Dean](https://frm.forestry.ubc.ca/people/staff/) at `joanne.dean@ubc.ca`. Joanne is the administrative manager for the Department of Forest Resources Management.
 
 ```{r, echo=FALSE, out.width="100%",fig.align = 'center', fig.cap="View from UBC looking north west to [Bowen Island](https://www.tourismbowenisland.com/)."}
 knitr::include_graphics("img\\ubc1.png")
@@ -12,15 +12,15 @@ knitr::include_graphics("img\\ubc1.png")
 
 ## UBC resources - admin {-#resourcesubc}
 
-The [Forestry Graduate Student Portal](https://forestry.ubc.ca/students/graduate-student-portal/) provides links for policies, administrative forms, as well as general links for graduate students. The [GRADBOOK](https://forestry.ubc.ca/wp-content/uploads/2020/08/Forestry-Gradbook-2020-21-edition.pdf) will probably answer many of your forestry specific administrative questions.
+The [Forestry Graduate Student Portal](https://forestry.ubc.ca/students/graduate-student-portal/) provides links for policies, administrative forms, as well as general links for graduate students. The [GRADBOOK](https://forestry.ubc.ca/wp-content/uploads/2021/08/Forestry-Gradbook-2021-22_Final.pdf) will probably answer many of your forestry specific administrative questions.
 
-[Useful information for newly admitted graduate students](https://www.grad.ubc.ca/current-students/newly-admitted) including details about how to apply for your [UBC card](https://ubccard.ubc.ca/), applying for medical insurance, and registering for courses. 
+[Useful information for newly admitted graduate students](https://www.grad.ubc.ca/current-students/newly-admitted) including details about how to apply for your [UBC card](https://ubccard.ubc.ca/), applying for [medical insurance](https://students.ubc.ca/health/health-insurance), and registering for courses. 
 
 ## International student resources {-#resourcesint}
 
 UBC provides [international student advising](https://students.ubc.ca/about-student-services/international-student-advising) and a [guide for international students.](https://students.ubc.ca/international-student-guide)
 
-```{r, echo=FALSE, out.width="100%",fig.align = 'center', fig.cap="Looking north east - Telus science world from false creek."}
+```{r, echo=FALSE, out.width="100%",fig.align = 'center', fig.cap="Looking north east - Telus Science World from False Creek."}
 knitr::include_graphics("img\\vancouver2.jpg")
 ```
 
@@ -46,7 +46,7 @@ Vancouver is a bike friendly city - check out some of the [dedicated and share b
 
 ## Student welfare {-#welfare}
 
-* UBC has a comprehensive health and well being centre. More information can be found in the links below:
+UBC has a comprehensive health and well-being centre. More information can be found in the links below:
 
 * [Finding health support](https://students.ubc.ca/health/finding-health-support)
 * [Student health service](https://students.ubc.ca/health/student-health-service)

@@ -13,9 +13,9 @@ Within the first few months of starting your degree you’ll need to write a min
 [![Developing a mini proposal](http://img.youtube.com/vi/CjQuJqhK1z8/0.jpg)](https://youtu.be/CjQuJqhK1z8 "Developing a mini proposal")
 </p>
 
-* Likely first comments back from Nicholas about your writing, and they may come across quite strongly (perhaps even brash) - don’t take it personally, this is a learning curve for most new grad students and Nicholas just tries to be clear and concise
+* Likely first comments back from Nicholas about your writing, and they may come across quite strongly (perhaps even brash) - don’t take it personally, this is a learning curve for most new grad students and Nicholas just tries to be clear and concise.
 
-* After your mini-proposal is sent to your committee you will need to have your first committee meeting
+* After your mini-proposal is sent to your committee you will need to have your first committee meeting.
 
 ### Establishing and preparing for your first committee meeting {-#committee}
 
@@ -27,7 +27,7 @@ Within the first few months of starting your degree you’ll need to write a min
 
 * Committee meetings happen once per year, with your first meeting ideally 6 months after you start.
 
-* Committee meeting forms can be found in `ByProject\__LABFORMS`.
+* Committee meeting forms can be found in `\\FRST-IRSStor\Root\ByProject\__LABFORMS\Ctee-Mtg-Forms`.
 
 
 ### Adaptation of the mini proposal to a full proposal after that first committee meeting {-#fullproposal}
@@ -101,7 +101,7 @@ The last few months of your program can be hectic. A lot of things can be happen
 * Committee feedback and selecting examiners.
 
 
-*These videos and other resources can be found in `//ByProject//Orientation`. Check it out to familiarize yourself with the components and expectations of your thesis, aswell as example proposals and committee meeting presentations.*
+*These videos and other resources can be found in `\\FRST-IRSStor\Root\ByProject\Orientation`. Check it out to familiarize yourself with the components and expectations of your thesis, as well as example proposals and committee meeting presentations.*
 
 
 ## Thesis structure {-#thesisstructure}
@@ -214,7 +214,7 @@ Nicholas typically funds 1 conference for MSc students and 2 conferences for PhD
 
 * [Canadian Remote Sensing Symposium - vast topics in remote sensing research across Canada (located in various cities across Canada)](https://crss-sct.ca/) 
 
-* [ForestSAT - spatial analysis and remote sensing technologies for forest monitoring, modeling & description (international)](https://forestsat2020.forestsat.com/)
+* [ForestSAT - spatial analysis and remote sensing technologies for forest monitoring, modeling & description (international)](https://www.forestsat.com/)
 
 * [Silvilaser - LiDAR focused (international)](https://silvilaser2021.at/)
 
