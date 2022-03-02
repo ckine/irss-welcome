@@ -4,7 +4,7 @@
 knitr::include_graphics("img\\buffet.jpg")
 ```
 
-As a lab we have a variety of social events which are undertaken throughout the year. While  some are spontaneous, there are some other social events that we all do as a lab that have become tradition. These events are posted and updated in the `#lab-events` channel within [slack](#slack). The most important is the celebration following the defense of a Master’s or PhD thesis. On the day of the defense we always go out for dinner and celebrate the accomplishment. The defending student picks the location where we go to eat, and through coordination with the IRSS social coordinator (currently Ramon), we make a booking and celebrate the achievement. Typically an attendance poll is sent out prior to the event, and depending on space significant others can also join. 
+As a lab we have a variety of social events which are undertaken throughout the year. While  some are spontaneous, there are some other social events that we all do as a lab that have become tradition. These events are posted and updated in the `#lab-events` channel within [Slack](#slack). The most important is the celebration following the defense of a Master’s or PhD thesis. On the day of the defense we always go out for dinner and celebrate the accomplishment. The defending student picks the location where we go to eat, and through coordination with the IRSS social coordinator (currently Ramon), we make a booking and celebrate the achievement. Typically an attendance poll is sent out prior to the event, and depending on space significant others can also join. 
  
 ```{r, echo=FALSE, out.width="100%",fig.align = 'center',fig.cap="Pizza and science - is there a better combo?"}
 knitr::include_graphics("img\\social-pizza.jpg")
@@ -14,7 +14,7 @@ We also have a number of other social activities throughout the year. Events tha
 
 * Summer barbecue
 
-* A brewery tour in East Vancouver often held in the fall 
+* A brewery tour in East Vancouver, often held in the fall 
 
 * The IRSS Christmas party, hosted by Nicholas in early December
 
@@ -22,13 +22,13 @@ We also have a number of other social activities throughout the year. Events tha
 knitr::include_graphics("img\\bbq.png")
 ```
 
-These events are inclusive to everyone and are done to allow students and staff to be better acquainted with one another. There is never any obligation to drink at these events, and we encourage you to come for as long as you like.
+These events are inclusive to everyone and are a great way for students and staff to be better acquainted with one another. There is never any obligation to drink at these events, and we encourage you to come for as long as you like.
 
 ## The retreat {-#retreat}
 
 One of the major IRSS events throughout the year is the retreat. The IRSS retreat is generally in the first week of June of each year and involves travelling to either the BC Ministry of Forests conference facility at [Cowichan Lake](http://www.town.lakecowichan.bc.ca/) on Vancouver Island or the [Loon Lake](https://loonlake.ubc.ca/about-us) facility at Malcolm Knapp Research Forest. 
 
-The retreat begins on Monday morning where we all leave together from Vancouver and traditionally we return on Thursday afternoon or Friday. During the retreat we often have guest speakers, breakout groups, tips and tricks sessions, 3 minute thesis style presentations by students and post-docs, and lots of free time to discuss science and enjoy each other’s company. It also provides an opportunity for new students to meet and socialize with the rest of the lab in a relaxed setting. Information about transportation, speaking expectations and so on, are discussed in May prior to the prior to the retreat in June.
+The retreat begins on Monday morning where we all leave together from Vancouver and traditionally we return on Thursday afternoon or Friday. During the retreat we often have guest speakers, breakout groups, tips and tricks sessions, 3 minute thesis style presentations by students and post-docs, and lots of free time to discuss science and enjoy each other's company. It also provides an opportunity for new students to meet and socialize with the rest of the lab in a relaxed setting. Information about transportation, speaking expectations and so on, are discussed in May prior to the prior to the retreat in June.
 
 ```{r, echo=FALSE, out.width="100%",fig.align = 'center',fig.cap="A relaxing game of kubb beside Lake Cowichan."}
 knitr::include_graphics("img\\retreat.jpg")
@@ -45,6 +45,3 @@ In general, there are no set rules around the amount of time that students can t
 As your stipend and project time is a fixed length, any time spent on holiday is time not spent on your project so it requires self determination around the most appropriate timing and time to take off. I strongly recognize, however, that holidays are also critically important to de-stress, so we strongly encourage students to take the holidays when they need and would like to. 
 
 UBC is considered closed between Christmas and New Year. That week is not regarded as being part of any holiday considerations, you should always take that time off. If you do wish to take holidays, speak to Nicholas prior to discuss the implications of that time off, deadlines and so forth. Once discussed and jointly approved you can then take the appropriate holidays. Please avoid booking time off in the first week of June - this is almost always when the retreat occurs, and it is mandatory to attend. The second most important lab event is the Christmas party. Nicholas will give as much notice as possible, but please avoid booking before the party if possible. 
-
-
-

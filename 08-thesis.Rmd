@@ -1,6 +1,6 @@
 # Your thesis {-#thesis}
 
-Below you will find descriptive text and links to some orientation videos to provide more context for the key requirements new students need to think about in their first year. These videos are intended for you as a reference, but if you want more clarification or have other questions be sure to ask. Click on the videos below or find them in the `\\FRST-IRSStor\Root\ByProject\Orientation\Orientation_Videos` folder.
+Below you will find descriptive text and links to some orientation videos to provide more context for the key requirements new students need to think about in their first year. These videos are intended for you as a reference, but if you want more clarification or have other questions be sure to ask. Click on the videos below or find them in the `\\FRST-IRSStor\Root\ByProject\Orientation\Orientation_Videos` folder. Other helpful resources on writing can be found at `\\FRST-IRSStor\Root\ByProject\__LABFORMS\Scientific writing`.
 
 ## Important resources for writing your thesis {-#thesiswriting}
 
@@ -13,7 +13,7 @@ Within the first few months of starting your degree, you’ll need to write a mi
 [![Developing a mini proposal](http://img.youtube.com/vi/CjQuJqhK1z8/0.jpg)](https://youtu.be/CjQuJqhK1z8 "Developing a mini proposal")
 </p>
 
-* The first comments back about your writing will likely be from Nicholas. They may come across quite strongly (perhaps even brash) - don’t take it personally, this is a learning curve for most new grad students, and Nicholas just tries to be clear and concise.
+* You'll likely get the first comments back about your writing from Nicholas. They may come across quite strongly (perhaps even brash) - don’t take it personally, this is a learning curve for most new grad students, and Nicholas just tries to be clear and concise.
 
 * After your mini-proposal is sent to your committee, you will need to have your first committee meeting.
 

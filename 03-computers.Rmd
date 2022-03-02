@@ -36,7 +36,7 @@ The **Fancy Zones** plugin allows you to set *zones* on your screen outside of t
 
 The **Color Picker** allows you to effectively use the dropper from image editing programs anywhere on your computer by pressing `Win` + `Shift` + `C`.
 
-```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="The lab and its many work stations"}
+```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="The lab and its many work stations."}
 knitr::include_graphics("img\\lab.jpg")
 ```
 
@@ -67,7 +67,7 @@ There are 3 options for data backup:
 
 Automate backups using SYNC or other software like [Cobian Backup](https://www.cobiansoft.com/). In the case of Cobian, schedule your backups to be incremental and run them daily. 
 
-3. Once you have completed projects (or are done your time at the IRSS) you must backup your data on the data backup server `\\FRST-IRSStor\Root\IRSSbackup`. See the next [section](#shared) for details on how to this needs to be done.
+3. Once you have completed projects (or are done your time at the IRSS), you must backup your data on the data backup server `\\FRST-IRSStor\Root\IRSSbackup`. See the next [section](#shared) for details on how to this needs to be done.
 
 When you complete a project, compress your folders (always a good practice), create copies, and get them on the server. This will allow you to free up space on your own internal HDD's and have the peace of mind that your data is secure.
 
@@ -118,12 +118,12 @@ knitr::include_graphics("img\\rdp.png")
 
 In the lab, we can use the Windows Remote Desktop Connection tool to connect to our machines when we are away from the lab. There are a few steps to follow in order to connect to your lab machine:
 
-1. Connect to a VPN. You should have Cisco Anyconnect installed on your work laptop, but it can also be downloaded from https://it.ubc.ca/services/email-voice-internet/myvpn/setup-documents. To log in, use your CWL.
+1. Connect to a VPN. You should have Cisco AnyConnect installed on your work laptop, but it can also be downloaded from https://it.ubc.ca/services/email-voice-internet/myvpn/setup-documents. To log in, use your CWL.
 
 
 2. Open the Remote Desktop Connection and enter your computer's name as follows: `frst-frm-22XYZ.ead.ubc.ca`, where `XYZ` are the digits/letter unique to your desktop (there will be a sticker on the top of your computer tower with these details).
 
-3. Click connect. You will be prompted to enter your CWL again. Alternatively, you can run the following command: `mstsc /v frst-frm-22XYZ.ead.ubc.ca`, and enter your CWL when promoted.
+3. Click `connect`. You will be prompted to enter your CWL again. Alternatively, you can run the following command: `mstsc /v frst-frm-22XYZ.ead.ubc.ca`, and enter your CWL when promoted.
 
 You have now successfully remoted in! 
 
@@ -131,9 +131,9 @@ Note: it is possible edit the display settings to stretch over 2 screens if you 
 
 ## Connecting to printers {-#print}
 
-The IRSS has both a black and white and colour printer available for use. In order to gain access to them follow these steps:
+The IRSS has both a black and white and colour printer available for use, located in the western lab room (Room 2231). In order to gain access to them, follow these steps:
 
-1. [Install the HP Driver](https://support.hp.com/ca-en/drivers/selfservice/hp-color-laserjet-managed-e75245-printer-series/21158702)
+1. [Install the HP Driver](https://support.hp.com/ca-en/drivers/selfservice/hp-color-laserjet-managed-e75245-printer-series/21158702). When the option appears, select `Connect later`.
 
 2. Open `Control Panel` then go under `Devices and Printers` and click `Add a printer`.
 
@@ -151,13 +151,19 @@ Xerox Phaser 4510 Series Class Driver
 IP: 142.103.230.20
 ```
 
-5. If a window appears that asks about driver version select `Use the driver that is currently installed`.
+```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="IP address and Port name for step 5."}
+knitr::include_graphics("img\\Printer_5.png")
+```
+
+5. If a window appears that asks about driver version, select `Use the driver that is currently installed`.
 
 6. Keep the default printer name then click `Next`.
 
 7. Make sure `Do not share this printer` is selected then click `Next`.
 
-You should now be connected!
+You should now be connected! 
+
+You can also look at `\\FRST-IRSStor\Root\ByProject\__LABFORMS\IRSS Printers.docx` for instructions with screenshots.
 
 
 
