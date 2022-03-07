@@ -1,5 +1,5 @@
 p.caption {
-  color: #777;
+  color: #585E89;
   margin-top: 10px;
 }
 p code {
@@ -11,6 +11,28 @@ pre {
 }
 pre code {
   white-space: inherit;
+}
+
+h1 {
+  color: black;
+  background-color: #F2FFFF;
+  border: 2px solid black;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  background-color: #F5FFFF;
+  font-size: large;
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  color: black;
+  text-indent: 40px;
 }
 
 @media (max-width: 700px) {
