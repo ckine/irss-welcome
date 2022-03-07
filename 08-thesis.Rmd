@@ -53,12 +53,12 @@ Within the first few months of starting your degree, you’ll need to write a mi
 
 ### Getting published in peer reviewed literature {-#peerreview}
 
-#### Part 1 {-#P1}
+#### Part 1: {-#P1}
 <p align="center">
 [![Peer reviewed publishing - part 1](http://img.youtube.com/vi/783qdzHSns4/0.jpg)](https://youtu.be/783qdzHSns4 "Developing a mini proposal")
 </p>
 
-#### Part 2 {-#P2}
+#### Part 2: {-#P2}
 <p align="center">
 [![Peer reviewed publishing - part 2](http://img.youtube.com/vi/WVg4WV-qLHM/0.jpg)](https://youtu.be/WVg4WV-qLHM "Developing a mini proposal")
 </p>
